@@ -1,0 +1,721 @@
+observation_id,program_id,observation_date,source_type,field_name,submitted_value,normalized_value,confidence_score,citation_status,analyst_note
+SRC0001,UP009,2026-01-05,web research,incentive_amount,88601,88601,69.9,complete,confirm definition before publication
+SRC0002,UP024,2026-02-09,utility filing,launch_date,206109,206109,67.7,needs page reference,compare against prior cycle
+SRC0003,UP006,2026-05-22,analyst interview,customer_segment,95290,95290,84.7,complete,compare against prior cycle
+SRC0004,UP004,2026-03-22,benchmark study,incentive_amount,229859,229859,84.9,complete,ready for tool update
+SRC0005,UP029,2026-03-17,benchmark study,customer_segment,50950,50950,72.8,complete,compare against prior cycle
+SRC0006,UP039,2026-02-11,program survey,incentive_amount,136192,136192,75.1,needs page reference,needs SME review
+SRC0007,UP029,2026-05-12,client spreadsheet,participant_count,123740,123740,99,needs page reference,ready for tool update
+SRC0008,UP013,2026-03-25,analyst interview,annual_mwh_savings,217991,217991,56.3,complete,confirm definition before publication
+SRC0009,UP007,2026-03-06,program survey,eligibility_definition,custom,custom,72.4,complete,ready for tool update
+SRC0010,UP012,2026-02-21,client spreadsheet,launch_date,29767,29767,67.8,complete,ready for tool update
+SRC0011,UP022,2026-05-15,utility filing,launch_date,225074,225074,94.9,missing,confirm definition before publication
+SRC0012,UP018,2026-01-07,web research,annual_mwh_savings,85990,85990,65.0,complete,confirm definition before publication
+SRC0013,UP015,2026-01-07,analyst interview,annual_mwh_savings,3784,3784,88.0,complete,compare against prior cycle
+SRC0014,UP006,2026-03-17,web research,launch_date,247720,247720,74.7,complete,ready for tool update
+SRC0015,UP024,2025-12-29,analyst interview,measure_cost,134770,134770,82.6,complete,compare against prior cycle
+SRC0016,UP022,2026-03-15,benchmark study,measure_cost,77755,77755,99,complete,ready for tool update
+SRC0017,UP030,2026-03-10,utility filing,customer_segment,13246,13246,64.2,complete,confirm definition before publication
+SRC0018,UP007,2026-04-30,utility filing,incentive_amount,86795,86795,83.8,complete,needs SME review
+SRC0019,UP019,2026-01-27,client spreadsheet,annual_mwh_savings,101783,101783,84.8,complete,compare against prior cycle
+SRC0020,UP029,2026-01-30,utility filing,annual_mwh_savings,191089,191089,90.8,missing,confirm definition before publication
+SRC0021,UP002,2026-04-04,program survey,participant_count,140029,140029,67.4,complete,confirm definition before publication
+SRC0022,UP009,2026-01-10,analyst interview,eligibility_definition,all customers,all customers,80.7,complete,confirm definition before publication
+SRC0023,UP017,2026-01-07,web research,eligibility_definition,all customers,all customers,62.9,missing,needs SME review
+SRC0024,UP006,2026-04-13,benchmark study,launch_date,191540,191540,85.9,complete,compare against prior cycle
+SRC0025,UP015,2026-02-09,analyst interview,annual_mwh_savings,82166,82166,64.2,missing,compare against prior cycle
+SRC0026,UP020,2026-04-29,benchmark study,customer_segment,226106,226106,90.0,complete,ready for tool update
+SRC0027,UP040,2026-03-15,client spreadsheet,eligibility_definition,custom,custom,55.6,complete,confirm definition before publication
+SRC0028,UP013,2026-04-27,benchmark study,eligibility_definition,income qualified,income qualified,82.4,complete,ready for tool update
+SRC0029,UP004,2026-03-21,web research,annual_mwh_savings,229150,229150,67.9,complete,needs SME review
+SRC0030,UP003,2026-04-05,client spreadsheet,launch_date,207821,207821,82.9,complete,needs SME review
+SRC0031,UP007,2026-03-30,utility filing,annual_mwh_savings,45121,45121,65.7,complete,ready for tool update
+SRC0032,UP012,2026-02-13,program survey,annual_mwh_savings,99396,99396,70.9,complete,needs SME review
+SRC0033,UP018,2026-05-03,program survey,launch_date,41990,41990,86.5,complete,needs SME review
+SRC0034,UP030,2026-04-27,benchmark study,customer_segment,42963,42963,72.4,complete,confirm definition before publication
+SRC0035,UP037,2025-12-30,utility filing,annual_mwh_savings,192662,192662,83.4,missing,compare against prior cycle
+SRC0036,UP037,2026-01-04,utility filing,incentive_amount,8459,8459,60.9,complete,needs SME review
+SRC0037,UP032,2026-03-28,client spreadsheet,annual_mwh_savings,202448,202448,86.7,complete,ready for tool update
+SRC0038,UP030,2026-03-31,program survey,incentive_amount,153400,153400,60.1,needs page reference,compare against prior cycle
+SRC0039,UP020,2026-03-17,client spreadsheet,customer_segment,192856,192856,69.5,complete,needs SME review
+SRC0040,UP029,2026-01-08,benchmark study,customer_segment,39007,39007,99,complete,ready for tool update
+SRC0041,UP006,2026-02-21,utility filing,incentive_amount,128857,128857,54.1,complete,confirm definition before publication
+SRC0042,UP004,2026-01-04,utility filing,customer_segment,236185,236185,73.6,complete,confirm definition before publication
+SRC0043,UP042,2026-03-01,client spreadsheet,customer_segment,219371,219371,84.1,complete,needs SME review
+SRC0044,UP017,2026-03-06,web research,incentive_amount,167673,167673,55.3,needs page reference,ready for tool update
+SRC0045,UP020,2025-12-28,benchmark study,measure_cost,83730,83730,87.5,complete,ready for tool update
+SRC0046,UP003,2026-01-29,analyst interview,annual_mwh_savings,217563,217563,87.4,complete,confirm definition before publication
+SRC0047,UP015,2026-03-03,client spreadsheet,eligibility_definition,small business,small business,89.6,needs page reference,compare against prior cycle
+SRC0048,UP014,2026-04-06,web research,incentive_amount,79570,79570,90.9,needs page reference,ready for tool update
+SRC0049,UP024,2025-12-29,program survey,launch_date,30837,30837,76.9,complete,needs SME review
+SRC0050,UP017,2026-04-12,analyst interview,measure_cost,53020,53020,82.0,complete,compare against prior cycle
+SRC0051,UP007,2026-03-28,web research,annual_mwh_savings,8562,8562,67.6,complete,confirm definition before publication
+SRC0052,UP032,2026-01-18,utility filing,launch_date,221452,221452,90.8,needs page reference,ready for tool update
+SRC0053,UP021,2026-03-25,utility filing,measure_cost,214027,214027,75.9,needs page reference,compare against prior cycle
+SRC0054,UP001,2026-02-10,web research,launch_date,248086,248086,68.1,needs page reference,needs SME review
+SRC0055,UP010,2026-01-26,analyst interview,launch_date,36258,36258,81.6,complete,ready for tool update
+SRC0056,UP023,2026-04-30,benchmark study,participant_count,227649,227649,92.7,complete,ready for tool update
+SRC0057,UP003,2026-03-02,client spreadsheet,measure_cost,112471,112471,85.2,complete,confirm definition before publication
+SRC0058,UP022,2026-03-19,web research,customer_segment,80675,80675,56.8,complete,needs SME review
+SRC0059,UP016,2026-02-14,client spreadsheet,launch_date,137458,137458,65.6,complete,ready for tool update
+SRC0060,UP009,2026-02-20,analyst interview,incentive_amount,224793,224793,81.5,complete,ready for tool update
+SRC0061,UP032,2026-03-24,program survey,incentive_amount,230634,230634,94.9,needs page reference,compare against prior cycle
+SRC0062,UP010,2026-04-03,utility filing,annual_mwh_savings,64903,64903,99,missing,compare against prior cycle
+SRC0063,UP009,2026-02-05,web research,launch_date,29861,29861,76.1,complete,needs SME review
+SRC0064,UP024,2026-04-11,utility filing,annual_mwh_savings,64766,64766,71.7,needs page reference,ready for tool update
+SRC0065,UP030,2026-02-07,program survey,measure_cost,45345,45345,74.0,complete,confirm definition before publication
+SRC0066,UP009,2026-03-26,web research,launch_date,173130,173130,71.2,complete,compare against prior cycle
+SRC0067,UP024,2026-02-23,benchmark study,measure_cost,75728,75728,99,complete,needs SME review
+SRC0068,UP028,2026-03-28,web research,launch_date,215795,215795,87.3,complete,needs SME review
+SRC0069,UP002,2026-02-24,program survey,eligibility_definition,custom,custom,40.4,complete,ready for tool update
+SRC0070,UP010,2026-04-17,utility filing,measure_cost,176850,176850,99,complete,compare against prior cycle
+SRC0071,UP001,2026-03-19,program survey,launch_date,163068,163068,84.7,needs page reference,ready for tool update
+SRC0072,UP039,2026-02-03,benchmark study,eligibility_definition,custom,custom,94.6,complete,confirm definition before publication
+SRC0073,UP033,2026-01-09,analyst interview,customer_segment,59004,59004,72.7,complete,ready for tool update
+SRC0074,UP010,2026-01-26,client spreadsheet,incentive_amount,236054,236054,84.3,complete,needs SME review
+SRC0075,UP005,2026-03-17,client spreadsheet,measure_cost,63086,63086,86.6,complete,compare against prior cycle
+SRC0076,UP019,2026-05-11,utility filing,participant_count,158896,158896,86.8,complete,needs SME review
+SRC0077,UP037,2026-01-17,utility filing,eligibility_definition,custom,custom,84.7,missing,compare against prior cycle
+SRC0078,UP011,2026-03-01,web research,launch_date,55923,55923,73.8,complete,confirm definition before publication
+SRC0079,UP020,2026-03-23,benchmark study,measure_cost,51639,51639,84.6,complete,needs SME review
+SRC0080,UP003,2026-01-12,benchmark study,participant_count,243381,243381,84.3,complete,confirm definition before publication
+SRC0081,UP022,2026-01-11,benchmark study,launch_date,105708,105708,84.4,missing,needs SME review
+SRC0082,UP019,2026-04-22,client spreadsheet,customer_segment,97870,97870,79.1,complete,confirm definition before publication
+SRC0083,UP020,2026-04-09,analyst interview,eligibility_definition,income qualified,income qualified,84.6,complete,compare against prior cycle
+SRC0084,UP022,2026-01-06,benchmark study,annual_mwh_savings,184432,184432,78.3,needs page reference,ready for tool update
+SRC0085,UP006,2026-02-27,program survey,annual_mwh_savings,174739,174739,97.8,complete,ready for tool update
+SRC0086,UP017,2026-03-19,client spreadsheet,annual_mwh_savings,144347,144347,89.9,complete,needs SME review
+SRC0087,UP015,2026-02-09,analyst interview,customer_segment,118393,118393,61.2,complete,ready for tool update
+SRC0088,UP030,2026-05-04,client spreadsheet,customer_segment,236705,236705,84.1,complete,confirm definition before publication
+SRC0089,UP012,2026-04-13,client spreadsheet,eligibility_definition,small business,small business,74.2,complete,compare against prior cycle
+SRC0090,UP010,2026-02-12,utility filing,customer_segment,76894,76894,64.6,missing,needs SME review
+SRC0091,UP023,2026-03-18,analyst interview,annual_mwh_savings,228904,228904,76.3,complete,ready for tool update
+SRC0092,UP020,2026-03-27,client spreadsheet,eligibility_definition,income qualified,income qualified,88.7,complete,needs SME review
+SRC0093,UP033,2026-02-20,client spreadsheet,annual_mwh_savings,76121,76121,81.8,complete,confirm definition before publication
+SRC0094,UP005,2026-05-03,analyst interview,participant_count,31244,31244,91.2,missing,ready for tool update
+SRC0095,UP008,2026-04-25,web research,annual_mwh_savings,14464,14464,75.6,complete,confirm definition before publication
+SRC0096,UP013,2026-04-01,utility filing,launch_date,204519,204519,82.9,needs page reference,needs SME review
+SRC0097,UP029,2026-05-15,program survey,participant_count,82346,82346,88.4,complete,ready for tool update
+SRC0098,UP041,2026-02-02,utility filing,customer_segment,34636,34636,64.4,complete,needs SME review
+SRC0099,UP005,2025-12-30,program survey,eligibility_definition,all customers,all customers,98.4,needs page reference,ready for tool update
+SRC0100,UP003,2026-02-24,client spreadsheet,participant_count,38502,38502,94.0,complete,compare against prior cycle
+SRC0101,UP031,2026-05-24,analyst interview,participant_count,16617,16617,67.3,complete,ready for tool update
+SRC0102,UP040,2026-03-05,client spreadsheet,annual_mwh_savings,79447,79447,64.3,complete,compare against prior cycle
+SRC0103,UP034,2026-05-01,analyst interview,customer_segment,32108,32108,94.6,complete,needs SME review
+SRC0104,UP026,2026-05-02,benchmark study,incentive_amount,245880,245880,99,complete,ready for tool update
+SRC0105,UP029,2026-04-16,utility filing,customer_segment,51334,51334,85.2,missing,ready for tool update
+SRC0106,UP006,2026-01-29,analyst interview,annual_mwh_savings,130131,130131,90.2,complete,compare against prior cycle
+SRC0107,UP028,2026-02-18,client spreadsheet,annual_mwh_savings,14543,14543,78.3,complete,compare against prior cycle
+SRC0108,UP013,2026-04-25,analyst interview,eligibility_definition,all customers,all customers,80.9,complete,ready for tool update
+SRC0109,UP035,2026-01-07,client spreadsheet,participant_count,173494,173494,88.2,needs page reference,ready for tool update
+SRC0110,UP033,2026-05-16,benchmark study,measure_cost,218160,218160,81.6,complete,ready for tool update
+SRC0111,UP014,2026-04-01,web research,annual_mwh_savings,14848,14848,81.8,complete,needs SME review
+SRC0112,UP014,2026-04-30,utility filing,eligibility_definition,small business,small business,80.3,needs page reference,compare against prior cycle
+SRC0113,UP024,2026-03-26,analyst interview,annual_mwh_savings,216137,216137,99,missing,confirm definition before publication
+SRC0114,UP041,2026-02-20,benchmark study,customer_segment,194072,194072,77.6,complete,compare against prior cycle
+SRC0115,UP036,2026-04-20,utility filing,participant_count,232661,232661,92.3,complete,needs SME review
+SRC0116,UP029,2026-04-07,program survey,customer_segment,31779,31779,68.3,complete,confirm definition before publication
+SRC0117,UP011,2026-02-20,analyst interview,launch_date,89360,89360,77.9,complete,needs SME review
+SRC0118,UP026,2026-01-11,utility filing,incentive_amount,206553,206553,82.6,missing,ready for tool update
+SRC0119,UP041,2026-03-16,client spreadsheet,launch_date,130150,130150,91.4,complete,needs SME review
+SRC0120,UP014,2026-05-22,web research,launch_date,70979,70979,80.2,needs page reference,compare against prior cycle
+SRC0121,UP033,2026-01-31,analyst interview,measure_cost,153885,153885,85.4,complete,ready for tool update
+SRC0122,UP008,2026-01-19,web research,incentive_amount,110616,110616,69.6,needs page reference,compare against prior cycle
+SRC0123,UP038,2026-03-18,benchmark study,customer_segment,100808,100808,69.0,complete,ready for tool update
+SRC0124,UP029,2026-04-13,web research,launch_date,68839,68839,76.3,complete,compare against prior cycle
+SRC0125,UP023,2026-02-18,client spreadsheet,measure_cost,201539,201539,60.7,complete,confirm definition before publication
+SRC0126,UP042,2026-02-10,benchmark study,launch_date,83842,83842,81.6,complete,compare against prior cycle
+SRC0127,UP026,2026-04-10,benchmark study,launch_date,192887,192887,99,complete,ready for tool update
+SRC0128,UP001,2026-04-26,analyst interview,incentive_amount,72762,72762,90.9,complete,confirm definition before publication
+SRC0129,UP014,2026-01-21,analyst interview,participant_count,186445,186445,85.7,complete,needs SME review
+SRC0130,UP041,2026-03-25,web research,annual_mwh_savings,41301,41301,86.2,complete,confirm definition before publication
+SRC0131,UP021,2026-05-14,program survey,eligibility_definition,custom,custom,68.3,complete,needs SME review
+SRC0132,UP025,2026-04-04,web research,incentive_amount,194654,194654,74.5,needs page reference,ready for tool update
+SRC0133,UP015,2026-05-20,utility filing,incentive_amount,210445,210445,66.2,needs page reference,ready for tool update
+SRC0134,UP040,2026-05-20,client spreadsheet,customer_segment,132794,132794,73.1,complete,needs SME review
+SRC0135,UP031,2026-04-01,analyst interview,annual_mwh_savings,155175,155175,99,complete,needs SME review
+SRC0136,UP008,2026-05-17,web research,annual_mwh_savings,64021,64021,71.8,complete,needs SME review
+SRC0137,UP012,2025-12-28,client spreadsheet,incentive_amount,78932,78932,80.0,complete,confirm definition before publication
+SRC0138,UP038,2026-01-19,program survey,participant_count,103998,103998,81.0,complete,needs SME review
+SRC0139,UP011,2026-02-06,benchmark study,customer_segment,228972,228972,99,complete,compare against prior cycle
+SRC0140,UP017,2026-05-18,web research,incentive_amount,95096,95096,69.3,complete,ready for tool update
+SRC0141,UP042,2026-04-22,benchmark study,launch_date,218235,218235,97.5,complete,ready for tool update
+SRC0142,UP027,2026-05-22,analyst interview,launch_date,58795,58795,76.1,complete,confirm definition before publication
+SRC0143,UP006,2026-03-08,analyst interview,incentive_amount,234612,234612,55.8,complete,needs SME review
+SRC0144,UP004,2026-05-06,web research,participant_count,134404,134404,74.1,complete,ready for tool update
+SRC0145,UP041,2026-04-16,client spreadsheet,measure_cost,147314,147314,65.1,complete,needs SME review
+SRC0146,UP012,2026-03-30,analyst interview,launch_date,181427,181427,80.5,complete,ready for tool update
+SRC0147,UP030,2026-01-11,utility filing,annual_mwh_savings,225771,225771,99,complete,confirm definition before publication
+SRC0148,UP036,2026-03-20,benchmark study,launch_date,190048,190048,96.5,complete,needs SME review
+SRC0149,UP033,2026-04-05,program survey,customer_segment,146295,146295,99,needs page reference,compare against prior cycle
+SRC0150,UP011,2026-03-13,program survey,measure_cost,118441,118441,82.4,complete,needs SME review
+SRC0151,UP011,2026-04-02,program survey,measure_cost,199364,199364,99,complete,ready for tool update
+SRC0152,UP018,2026-05-19,web research,participant_count,155551,155551,76.8,complete,compare against prior cycle
+SRC0153,UP003,2026-04-07,utility filing,customer_segment,131544,131544,79.2,complete,needs SME review
+SRC0154,UP026,2026-04-24,utility filing,launch_date,185143,185143,99,complete,compare against prior cycle
+SRC0155,UP040,2026-03-01,analyst interview,incentive_amount,172846,172846,65.0,needs page reference,compare against prior cycle
+SRC0156,UP033,2026-04-21,analyst interview,launch_date,116919,116919,93.0,missing,confirm definition before publication
+SRC0157,UP039,2026-05-20,analyst interview,customer_segment,227919,227919,87.4,complete,ready for tool update
+SRC0158,UP034,2026-05-24,client spreadsheet,measure_cost,231475,231475,85.0,complete,needs SME review
+SRC0159,UP025,2026-04-01,web research,eligibility_definition,small business,small business,67.7,needs page reference,ready for tool update
+SRC0160,UP006,2026-03-27,benchmark study,annual_mwh_savings,42597,42597,92.3,complete,confirm definition before publication
+SRC0161,UP026,2026-05-14,program survey,incentive_amount,62126,62126,80.3,missing,ready for tool update
+SRC0162,UP033,2026-03-25,web research,customer_segment,15765,15765,93.6,needs page reference,needs SME review
+SRC0163,UP003,2026-01-08,utility filing,measure_cost,105983,105983,81.4,missing,compare against prior cycle
+SRC0164,UP004,2026-04-14,program survey,annual_mwh_savings,111369,111369,58.4,complete,ready for tool update
+SRC0165,UP023,2026-02-09,web research,measure_cost,177118,177118,69.6,needs page reference,ready for tool update
+SRC0166,UP009,2026-04-18,analyst interview,participant_count,71154,71154,80.2,complete,compare against prior cycle
+SRC0167,UP022,2026-02-27,utility filing,incentive_amount,131976,131976,79.2,complete,compare against prior cycle
+SRC0168,UP009,2026-03-16,program survey,customer_segment,104592,104592,99,complete,compare against prior cycle
+SRC0169,UP038,2026-01-31,analyst interview,measure_cost,163583,163583,88.8,missing,needs SME review
+SRC0170,UP019,2026-04-22,program survey,annual_mwh_savings,5162,5162,58.8,complete,confirm definition before publication
+SRC0171,UP042,2026-01-07,program survey,customer_segment,64078,64078,70.5,complete,needs SME review
+SRC0172,UP026,2026-02-25,utility filing,measure_cost,215348,215348,77.6,complete,confirm definition before publication
+SRC0173,UP017,2026-05-06,benchmark study,launch_date,130295,130295,84.3,complete,needs SME review
+SRC0174,UP003,2026-01-05,web research,annual_mwh_savings,167470,167470,56.0,complete,compare against prior cycle
+SRC0175,UP038,2026-04-14,program survey,launch_date,2129,2129,66.9,needs page reference,compare against prior cycle
+SRC0176,UP008,2026-04-15,utility filing,launch_date,161209,161209,73.5,needs page reference,confirm definition before publication
+SRC0177,UP006,2026-04-27,client spreadsheet,customer_segment,246770,246770,93.9,complete,needs SME review
+SRC0178,UP014,2026-01-12,utility filing,eligibility_definition,income qualified,income qualified,69.0,complete,ready for tool update
+SRC0179,UP020,2026-02-13,client spreadsheet,eligibility_definition,small business,small business,87.1,complete,confirm definition before publication
+SRC0180,UP017,2026-03-20,analyst interview,eligibility_definition,small business,small business,81.6,missing,ready for tool update
+SRC0181,UP023,2026-03-28,program survey,measure_cost,214730,214730,91.6,complete,ready for tool update
+SRC0182,UP031,2026-02-04,program survey,participant_count,166357,166357,99,complete,needs SME review
+SRC0183,UP035,2026-03-27,program survey,eligibility_definition,custom,custom,90.1,complete,ready for tool update
+SRC0184,UP029,2026-01-24,benchmark study,incentive_amount,116344,116344,75.0,complete,ready for tool update
+SRC0185,UP029,2026-01-21,analyst interview,incentive_amount,122332,122332,95.9,complete,ready for tool update
+SRC0186,UP039,2026-01-24,analyst interview,incentive_amount,17529,17529,78.4,complete,confirm definition before publication
+SRC0187,UP032,2026-04-28,client spreadsheet,eligibility_definition,small business,small business,71.3,complete,needs SME review
+SRC0188,UP008,2026-03-18,benchmark study,incentive_amount,201476,201476,85.5,missing,compare against prior cycle
+SRC0189,UP005,2026-04-18,benchmark study,launch_date,200073,200073,92.5,missing,compare against prior cycle
+SRC0190,UP005,2026-04-19,benchmark study,launch_date,104461,104461,96.1,complete,needs SME review
+SRC0191,UP037,2026-04-21,web research,participant_count,133252,133252,66.4,needs page reference,confirm definition before publication
+SRC0192,UP028,2026-03-20,client spreadsheet,customer_segment,51479,51479,75.3,complete,compare against prior cycle
+SRC0193,UP029,2026-02-18,client spreadsheet,launch_date,107647,107647,85.1,complete,needs SME review
+SRC0194,UP009,2026-04-22,program survey,measure_cost,82754,82754,73.9,complete,needs SME review
+SRC0195,UP027,2026-03-10,web research,annual_mwh_savings,201217,201217,61.7,complete,confirm definition before publication
+SRC0196,UP033,2026-02-24,client spreadsheet,annual_mwh_savings,137111,137111,99,complete,ready for tool update
+SRC0197,UP013,2026-05-22,web research,eligibility_definition,custom,custom,68.0,complete,ready for tool update
+SRC0198,UP021,2026-03-20,utility filing,customer_segment,195213,195213,90.0,complete,confirm definition before publication
+SRC0199,UP030,2026-02-12,utility filing,incentive_amount,72224,72224,78.5,complete,needs SME review
+SRC0200,UP004,2026-01-04,benchmark study,customer_segment,231003,231003,84.9,complete,compare against prior cycle
+SRC0201,UP009,2026-02-17,web research,annual_mwh_savings,4777,4777,52.5,complete,confirm definition before publication
+SRC0202,UP035,2026-02-01,program survey,customer_segment,21459,21459,99,complete,confirm definition before publication
+SRC0203,UP035,2026-01-14,analyst interview,customer_segment,79632,79632,88.6,needs page reference,confirm definition before publication
+SRC0204,UP038,2026-03-21,utility filing,measure_cost,63306,63306,82.7,complete,needs SME review
+SRC0205,UP002,2026-04-21,web research,customer_segment,22853,22853,83.8,complete,needs SME review
+SRC0206,UP007,2026-01-01,utility filing,measure_cost,73442,73442,89.6,complete,needs SME review
+SRC0207,UP025,2026-05-22,web research,participant_count,147668,147668,74.5,complete,compare against prior cycle
+SRC0208,UP036,2026-03-18,web research,measure_cost,47613,47613,65.9,missing,needs SME review
+SRC0209,UP010,2026-03-22,utility filing,launch_date,219564,219564,69.1,complete,compare against prior cycle
+SRC0210,UP029,2026-05-09,benchmark study,annual_mwh_savings,25715,25715,99,needs page reference,compare against prior cycle
+SRC0211,UP037,2026-04-01,program survey,annual_mwh_savings,247960,247960,68.7,needs page reference,ready for tool update
+SRC0212,UP028,2026-03-29,program survey,customer_segment,225611,225611,68.4,complete,compare against prior cycle
+SRC0213,UP042,2026-02-21,client spreadsheet,participant_count,227980,227980,81.5,complete,needs SME review
+SRC0214,UP028,2026-05-15,benchmark study,customer_segment,232577,232577,70.0,complete,needs SME review
+SRC0215,UP002,2026-01-10,utility filing,customer_segment,224333,224333,83.6,complete,ready for tool update
+SRC0216,UP033,2026-03-29,benchmark study,measure_cost,240279,240279,86.0,complete,ready for tool update
+SRC0217,UP009,2026-05-21,benchmark study,eligibility_definition,income qualified,income qualified,88.4,complete,needs SME review
+SRC0218,UP020,2026-05-14,program survey,customer_segment,138043,138043,75.4,complete,compare against prior cycle
+SRC0219,UP041,2026-01-13,analyst interview,incentive_amount,43387,43387,99,complete,ready for tool update
+SRC0220,UP023,2026-04-02,client spreadsheet,incentive_amount,112916,112916,77.9,complete,compare against prior cycle
+SRC0221,UP038,2026-05-12,analyst interview,eligibility_definition,income qualified,income qualified,87.8,complete,needs SME review
+SRC0222,UP015,2026-03-24,analyst interview,measure_cost,168596,168596,89.2,complete,needs SME review
+SRC0223,UP013,2026-03-20,analyst interview,annual_mwh_savings,204483,204483,97.7,complete,needs SME review
+SRC0224,UP024,2026-01-12,client spreadsheet,incentive_amount,193296,193296,78.5,complete,ready for tool update
+SRC0225,UP011,2026-04-09,utility filing,launch_date,173390,173390,71.8,complete,needs SME review
+SRC0226,UP024,2026-04-10,analyst interview,eligibility_definition,all customers,all customers,64.0,complete,ready for tool update
+SRC0227,UP032,2026-04-30,benchmark study,annual_mwh_savings,174489,174489,73.6,complete,compare against prior cycle
+SRC0228,UP021,2026-05-12,web research,participant_count,59013,59013,70.7,complete,confirm definition before publication
+SRC0229,UP037,2026-05-07,utility filing,measure_cost,101755,101755,59.2,complete,needs SME review
+SRC0230,UP041,2026-01-15,web research,measure_cost,129511,129511,64.9,complete,needs SME review
+SRC0231,UP041,2026-04-06,benchmark study,annual_mwh_savings,176804,176804,73.4,needs page reference,ready for tool update
+SRC0232,UP008,2026-05-16,utility filing,annual_mwh_savings,17440,17440,77.0,complete,compare against prior cycle
+SRC0233,UP008,2026-02-02,program survey,participant_count,233923,233923,74.9,complete,confirm definition before publication
+SRC0234,UP021,2025-12-31,program survey,participant_count,242157,242157,89.5,complete,confirm definition before publication
+SRC0235,UP001,2026-05-13,analyst interview,participant_count,170027,170027,62.2,complete,compare against prior cycle
+SRC0236,UP036,2026-02-28,analyst interview,eligibility_definition,all customers,all customers,80.9,complete,ready for tool update
+SRC0237,UP028,2025-12-28,program survey,eligibility_definition,small business,small business,86.1,complete,confirm definition before publication
+SRC0238,UP034,2026-04-03,analyst interview,incentive_amount,121244,121244,79.5,complete,ready for tool update
+SRC0239,UP013,2026-04-06,utility filing,incentive_amount,85308,85308,82.0,complete,needs SME review
+SRC0240,UP016,2026-03-20,web research,annual_mwh_savings,82531,82531,80.5,missing,needs SME review
+SRC0241,UP006,2026-04-27,web research,measure_cost,285,285,58.4,complete,compare against prior cycle
+SRC0242,UP028,2026-04-23,client spreadsheet,incentive_amount,49233,49233,67.6,missing,confirm definition before publication
+SRC0243,UP001,2026-03-13,benchmark study,measure_cost,246227,246227,63.7,complete,confirm definition before publication
+SRC0244,UP027,2026-04-27,program survey,launch_date,214613,214613,99,complete,needs SME review
+SRC0245,UP003,2026-04-06,utility filing,launch_date,174630,174630,97.7,complete,needs SME review
+SRC0246,UP038,2026-04-05,benchmark study,participant_count,213830,213830,79.3,complete,needs SME review
+SRC0247,UP032,2026-03-19,web research,annual_mwh_savings,204296,204296,67.5,complete,needs SME review
+SRC0248,UP036,2026-03-21,program survey,launch_date,239234,239234,57.3,complete,confirm definition before publication
+SRC0249,UP024,2026-02-23,benchmark study,launch_date,169050,169050,89.2,needs page reference,confirm definition before publication
+SRC0250,UP015,2026-01-10,benchmark study,customer_segment,72526,72526,81.6,needs page reference,compare against prior cycle
+SRC0251,UP018,2026-01-21,benchmark study,launch_date,227292,227292,86.2,complete,ready for tool update
+SRC0252,UP020,2026-02-20,benchmark study,launch_date,182364,182364,79.9,complete,needs SME review
+SRC0253,UP001,2026-04-07,benchmark study,participant_count,160050,160050,59.6,complete,confirm definition before publication
+SRC0254,UP014,2026-03-19,web research,eligibility_definition,income qualified,income qualified,77.5,complete,ready for tool update
+SRC0255,UP037,2026-03-06,client spreadsheet,annual_mwh_savings,147660,147660,88.0,complete,compare against prior cycle
+SRC0256,UP038,2026-01-05,utility filing,incentive_amount,199387,199387,69.0,complete,needs SME review
+SRC0257,UP026,2026-05-02,analyst interview,launch_date,83092,83092,69.8,missing,ready for tool update
+SRC0258,UP030,2025-12-31,client spreadsheet,annual_mwh_savings,118480,118480,96.1,complete,needs SME review
+SRC0259,UP019,2026-02-08,web research,customer_segment,152312,152312,58.9,missing,compare against prior cycle
+SRC0260,UP022,2026-04-23,utility filing,launch_date,186875,186875,65.0,complete,ready for tool update
+SRC0261,UP013,2026-04-12,client spreadsheet,customer_segment,173165,173165,60.0,complete,compare against prior cycle
+SRC0262,UP005,2026-01-08,web research,customer_segment,160844,160844,93.3,complete,compare against prior cycle
+SRC0263,UP008,2026-04-07,benchmark study,measure_cost,44274,44274,88.3,complete,compare against prior cycle
+SRC0264,UP042,2026-03-02,analyst interview,incentive_amount,208556,208556,73.7,complete,compare against prior cycle
+SRC0265,UP030,2025-12-27,benchmark study,launch_date,163362,163362,67.9,complete,needs SME review
+SRC0266,UP020,2026-01-20,client spreadsheet,launch_date,133570,133570,92.6,complete,ready for tool update
+SRC0267,UP023,2025-12-31,utility filing,measure_cost,108080,108080,99,complete,confirm definition before publication
+SRC0268,UP022,2026-02-20,analyst interview,eligibility_definition,small business,small business,83.1,complete,confirm definition before publication
+SRC0269,UP005,2026-01-22,utility filing,annual_mwh_savings,35163,35163,96.3,complete,compare against prior cycle
+SRC0270,UP019,2026-02-09,benchmark study,annual_mwh_savings,93952,93952,78.9,complete,ready for tool update
+SRC0271,UP007,2026-05-04,analyst interview,customer_segment,154032,154032,68.1,complete,compare against prior cycle
+SRC0272,UP032,2026-01-13,analyst interview,customer_segment,26987,26987,83.1,complete,confirm definition before publication
+SRC0273,UP028,2026-04-16,program survey,eligibility_definition,custom,custom,98.6,complete,compare against prior cycle
+SRC0274,UP010,2026-04-03,utility filing,participant_count,143599,143599,89.5,complete,needs SME review
+SRC0275,UP026,2026-04-28,web research,eligibility_definition,all customers,all customers,70.8,complete,compare against prior cycle
+SRC0276,UP032,2026-04-05,client spreadsheet,participant_count,98650,98650,71.3,missing,confirm definition before publication
+SRC0277,UP030,2026-02-17,web research,launch_date,24729,24729,69.2,complete,compare against prior cycle
+SRC0278,UP035,2026-04-11,program survey,incentive_amount,207790,207790,69.3,complete,confirm definition before publication
+SRC0279,UP037,2026-03-19,program survey,incentive_amount,41998,41998,91.2,complete,needs SME review
+SRC0280,UP037,2026-02-23,client spreadsheet,measure_cost,139921,139921,72.6,complete,ready for tool update
+SRC0281,UP019,2026-03-22,client spreadsheet,participant_count,12852,12852,82.2,complete,compare against prior cycle
+SRC0282,UP017,2026-02-13,benchmark study,launch_date,235040,235040,99,complete,confirm definition before publication
+SRC0283,UP040,2026-05-08,utility filing,incentive_amount,159310,159310,85.1,needs page reference,compare against prior cycle
+SRC0284,UP010,2026-02-09,web research,measure_cost,49354,49354,73.4,complete,compare against prior cycle
+SRC0285,UP004,2026-05-18,analyst interview,eligibility_definition,income qualified,income qualified,76.0,complete,confirm definition before publication
+SRC0286,UP012,2026-05-19,utility filing,incentive_amount,29715,29715,95.6,complete,compare against prior cycle
+SRC0287,UP011,2026-01-08,analyst interview,customer_segment,45291,45291,91.4,complete,confirm definition before publication
+SRC0288,UP034,2026-02-09,web research,annual_mwh_savings,45737,45737,86.6,needs page reference,confirm definition before publication
+SRC0289,UP007,2026-01-30,benchmark study,incentive_amount,101158,101158,81.8,missing,needs SME review
+SRC0290,UP018,2026-03-28,web research,eligibility_definition,custom,custom,68.1,complete,compare against prior cycle
+SRC0291,UP033,2026-04-18,analyst interview,customer_segment,1806,1806,69.3,complete,compare against prior cycle
+SRC0292,UP012,2026-01-31,utility filing,eligibility_definition,custom,custom,74.8,complete,confirm definition before publication
+SRC0293,UP008,2026-04-28,benchmark study,launch_date,71593,71593,85.5,complete,confirm definition before publication
+SRC0294,UP013,2026-01-21,web research,eligibility_definition,custom,custom,62.8,complete,needs SME review
+SRC0295,UP025,2026-01-17,client spreadsheet,eligibility_definition,custom,custom,68.6,complete,compare against prior cycle
+SRC0296,UP010,2026-05-13,client spreadsheet,participant_count,136301,136301,99,complete,needs SME review
+SRC0297,UP042,2026-01-17,client spreadsheet,launch_date,97388,97388,78.1,needs page reference,confirm definition before publication
+SRC0298,UP022,2026-02-10,program survey,eligibility_definition,custom,custom,68.6,missing,compare against prior cycle
+SRC0299,UP012,2026-05-04,client spreadsheet,participant_count,216466,216466,82.2,complete,confirm definition before publication
+SRC0300,UP037,2026-03-19,benchmark study,participant_count,10869,10869,78.9,complete,compare against prior cycle
+SRC0301,UP023,2026-03-08,analyst interview,launch_date,162306,162306,78.4,complete,ready for tool update
+SRC0302,UP002,2026-01-15,client spreadsheet,incentive_amount,136085,136085,68.3,missing,confirm definition before publication
+SRC0303,UP033,2026-01-17,utility filing,measure_cost,141548,141548,90.5,complete,compare against prior cycle
+SRC0304,UP034,2026-05-19,web research,measure_cost,145316,145316,84.2,complete,needs SME review
+SRC0305,UP040,2026-03-28,benchmark study,incentive_amount,247835,247835,72.1,complete,confirm definition before publication
+SRC0306,UP007,2026-03-17,program survey,participant_count,214715,214715,86.5,complete,confirm definition before publication
+SRC0307,UP037,2026-01-17,program survey,incentive_amount,2640,2640,86.0,complete,ready for tool update
+SRC0308,UP007,2026-02-19,web research,measure_cost,6864,6864,61.5,complete,needs SME review
+SRC0309,UP013,2026-01-30,analyst interview,incentive_amount,100021,100021,87.4,complete,compare against prior cycle
+SRC0310,UP013,2026-01-26,benchmark study,annual_mwh_savings,202395,202395,91.0,missing,compare against prior cycle
+SRC0311,UP004,2026-05-15,benchmark study,incentive_amount,43235,43235,87.4,complete,confirm definition before publication
+SRC0312,UP010,2026-02-20,utility filing,incentive_amount,236935,236935,99,complete,needs SME review
+SRC0313,UP030,2026-04-02,analyst interview,measure_cost,124853,124853,67.1,missing,compare against prior cycle
+SRC0314,UP028,2026-03-15,client spreadsheet,measure_cost,32749,32749,82.4,needs page reference,needs SME review
+SRC0315,UP041,2026-04-25,client spreadsheet,participant_count,97277,97277,80.7,complete,needs SME review
+SRC0316,UP036,2026-04-28,utility filing,participant_count,139107,139107,96.5,needs page reference,ready for tool update
+SRC0317,UP007,2026-02-23,analyst interview,annual_mwh_savings,227116,227116,91.0,complete,ready for tool update
+SRC0318,UP021,2026-04-26,analyst interview,participant_count,50919,50919,75.7,complete,compare against prior cycle
+SRC0319,UP040,2026-03-01,web research,eligibility_definition,custom,custom,94.1,complete,compare against prior cycle
+SRC0320,UP018,2026-03-03,analyst interview,measure_cost,77962,77962,81.8,missing,compare against prior cycle
+SRC0321,UP018,2026-01-12,client spreadsheet,incentive_amount,88310,88310,73.4,complete,needs SME review
+SRC0322,UP025,2026-04-16,program survey,launch_date,72951,72951,83.9,complete,ready for tool update
+SRC0323,UP020,2026-03-05,program survey,launch_date,197883,197883,88.3,complete,ready for tool update
+SRC0324,UP018,2026-03-05,client spreadsheet,annual_mwh_savings,25580,25580,73.4,missing,compare against prior cycle
+SRC0325,UP033,2026-03-09,utility filing,incentive_amount,91100,91100,90.4,complete,compare against prior cycle
+SRC0326,UP025,2026-04-07,utility filing,annual_mwh_savings,226523,226523,80.7,complete,confirm definition before publication
+SRC0327,UP001,2026-04-17,analyst interview,customer_segment,218318,218318,90.6,missing,needs SME review
+SRC0328,UP026,2026-02-22,analyst interview,customer_segment,100461,100461,58.5,complete,needs SME review
+SRC0329,UP028,2026-03-27,web research,participant_count,48382,48382,54.5,complete,compare against prior cycle
+SRC0330,UP005,2026-04-24,web research,customer_segment,111047,111047,94.3,complete,needs SME review
+SRC0331,UP015,2025-12-31,client spreadsheet,eligibility_definition,income qualified,income qualified,63.4,complete,ready for tool update
+SRC0332,UP041,2026-05-22,web research,annual_mwh_savings,43889,43889,73.3,missing,ready for tool update
+SRC0333,UP012,2026-01-05,utility filing,participant_count,17600,17600,90.6,complete,confirm definition before publication
+SRC0334,UP038,2026-03-10,utility filing,annual_mwh_savings,162436,162436,75.9,needs page reference,needs SME review
+SRC0335,UP021,2026-04-24,utility filing,measure_cost,3193,3193,81.9,complete,compare against prior cycle
+SRC0336,UP034,2026-04-09,benchmark study,launch_date,39623,39623,72.0,complete,needs SME review
+SRC0337,UP037,2026-04-25,client spreadsheet,participant_count,134777,134777,62.7,complete,needs SME review
+SRC0338,UP026,2026-03-24,analyst interview,launch_date,841,841,76.7,complete,ready for tool update
+SRC0339,UP023,2026-05-23,web research,participant_count,88583,88583,89.9,needs page reference,needs SME review
+SRC0340,UP028,2026-01-06,analyst interview,annual_mwh_savings,65354,65354,81.6,complete,needs SME review
+SRC0341,UP008,2026-01-17,client spreadsheet,participant_count,165445,165445,66.6,complete,compare against prior cycle
+SRC0342,UP034,2026-03-05,program survey,measure_cost,100865,100865,71.0,complete,needs SME review
+SRC0343,UP010,2026-01-05,program survey,launch_date,90567,90567,68.3,complete,ready for tool update
+SRC0344,UP007,2026-05-09,utility filing,customer_segment,37163,37163,92.1,complete,needs SME review
+SRC0345,UP027,2026-04-03,benchmark study,eligibility_definition,all customers,all customers,78.4,complete,ready for tool update
+SRC0346,UP028,2026-04-26,client spreadsheet,measure_cost,170047,170047,99,complete,confirm definition before publication
+SRC0347,UP011,2026-04-07,program survey,eligibility_definition,small business,small business,76.9,needs page reference,needs SME review
+SRC0348,UP041,2026-03-04,utility filing,customer_segment,29699,29699,79.0,complete,needs SME review
+SRC0349,UP035,2026-01-16,analyst interview,incentive_amount,56482,56482,68.6,needs page reference,compare against prior cycle
+SRC0350,UP018,2026-04-25,web research,eligibility_definition,all customers,all customers,72.8,complete,compare against prior cycle
+SRC0351,UP016,2026-01-25,web research,eligibility_definition,small business,small business,67.1,complete,ready for tool update
+SRC0352,UP015,2026-03-21,program survey,measure_cost,142597,142597,92.8,complete,ready for tool update
+SRC0353,UP040,2026-04-23,program survey,participant_count,209119,209119,79.9,complete,needs SME review
+SRC0354,UP029,2026-01-02,analyst interview,incentive_amount,138173,138173,60.1,complete,compare against prior cycle
+SRC0355,UP040,2026-01-12,utility filing,annual_mwh_savings,187707,187707,84.2,complete,ready for tool update
+SRC0356,UP002,2026-03-31,analyst interview,annual_mwh_savings,31246,31246,75.2,complete,needs SME review
+SRC0357,UP023,2026-03-22,client spreadsheet,annual_mwh_savings,230467,230467,87.3,needs page reference,compare against prior cycle
+SRC0358,UP021,2026-01-20,client spreadsheet,launch_date,25157,25157,69.4,missing,compare against prior cycle
+SRC0359,UP001,2026-04-17,program survey,launch_date,203976,203976,67.0,complete,needs SME review
+SRC0360,UP030,2026-04-16,client spreadsheet,incentive_amount,249275,249275,69.9,complete,needs SME review
+SRC0361,UP034,2026-03-04,program survey,incentive_amount,173911,173911,77.9,complete,needs SME review
+SRC0362,UP025,2026-03-20,program survey,customer_segment,137849,137849,83.1,complete,compare against prior cycle
+SRC0363,UP019,2026-03-11,client spreadsheet,annual_mwh_savings,175703,175703,78.6,complete,confirm definition before publication
+SRC0364,UP006,2026-01-04,program survey,launch_date,33210,33210,77.3,complete,ready for tool update
+SRC0365,UP009,2026-02-16,analyst interview,customer_segment,169673,169673,80.5,complete,ready for tool update
+SRC0366,UP013,2026-04-25,analyst interview,launch_date,143023,143023,79.0,complete,ready for tool update
+SRC0367,UP008,2026-04-08,analyst interview,eligibility_definition,custom,custom,83.1,needs page reference,compare against prior cycle
+SRC0368,UP015,2026-05-15,analyst interview,annual_mwh_savings,21853,21853,74.7,complete,compare against prior cycle
+SRC0369,UP038,2026-01-13,web research,incentive_amount,196134,196134,55.1,complete,ready for tool update
+SRC0370,UP037,2026-05-17,utility filing,measure_cost,7973,7973,87.9,complete,needs SME review
+SRC0371,UP039,2026-01-19,analyst interview,launch_date,239990,239990,82.0,complete,confirm definition before publication
+SRC0372,UP017,2026-04-25,program survey,participant_count,25218,25218,89.7,needs page reference,compare against prior cycle
+SRC0373,UP030,2026-01-25,analyst interview,measure_cost,99129,99129,69.7,complete,needs SME review
+SRC0374,UP011,2026-04-12,client spreadsheet,customer_segment,240082,240082,93.3,complete,confirm definition before publication
+SRC0375,UP012,2026-02-02,analyst interview,annual_mwh_savings,109991,109991,69.4,complete,needs SME review
+SRC0376,UP006,2026-01-13,program survey,customer_segment,198461,198461,92.1,complete,compare against prior cycle
+SRC0377,UP016,2026-04-29,analyst interview,launch_date,178760,178760,95.5,needs page reference,compare against prior cycle
+SRC0378,UP020,2026-02-20,utility filing,incentive_amount,177723,177723,88.4,complete,ready for tool update
+SRC0379,UP006,2026-03-25,utility filing,incentive_amount,26710,26710,88.0,complete,needs SME review
+SRC0380,UP002,2026-03-14,client spreadsheet,incentive_amount,170835,170835,99,needs page reference,compare against prior cycle
+SRC0381,UP029,2026-05-07,analyst interview,participant_count,44627,44627,55.3,complete,confirm definition before publication
+SRC0382,UP018,2026-01-24,program survey,incentive_amount,68746,68746,85.0,needs page reference,needs SME review
+SRC0383,UP003,2026-01-08,utility filing,incentive_amount,45850,45850,92.1,missing,compare against prior cycle
+SRC0384,UP041,2026-04-11,benchmark study,annual_mwh_savings,160614,160614,62.1,complete,compare against prior cycle
+SRC0385,UP023,2026-05-17,client spreadsheet,measure_cost,23515,23515,87.8,complete,compare against prior cycle
+SRC0386,UP002,2026-02-03,client spreadsheet,measure_cost,49482,49482,72.0,complete,confirm definition before publication
+SRC0387,UP039,2026-05-17,analyst interview,incentive_amount,102708,102708,93.1,missing,compare against prior cycle
+SRC0388,UP039,2026-01-31,client spreadsheet,measure_cost,209687,209687,97.1,complete,compare against prior cycle
+SRC0389,UP005,2026-01-30,program survey,measure_cost,154479,154479,67.8,complete,ready for tool update
+SRC0390,UP017,2026-03-13,web research,measure_cost,181603,181603,74.5,complete,confirm definition before publication
+SRC0391,UP030,2026-02-03,utility filing,eligibility_definition,custom,custom,67.8,needs page reference,compare against prior cycle
+SRC0392,UP024,2026-02-11,client spreadsheet,annual_mwh_savings,57450,57450,96.2,complete,compare against prior cycle
+SRC0393,UP003,2026-04-17,utility filing,eligibility_definition,small business,small business,92.2,complete,ready for tool update
+SRC0394,UP019,2026-01-09,analyst interview,measure_cost,238611,238611,89.3,complete,compare against prior cycle
+SRC0395,UP027,2026-04-12,client spreadsheet,measure_cost,152320,152320,84.5,needs page reference,confirm definition before publication
+SRC0396,UP016,2026-04-12,benchmark study,measure_cost,207469,207469,63.2,complete,compare against prior cycle
+SRC0397,UP025,2026-01-13,utility filing,annual_mwh_savings,109698,109698,88.6,needs page reference,compare against prior cycle
+SRC0398,UP001,2026-03-29,client spreadsheet,incentive_amount,209421,209421,90.9,complete,compare against prior cycle
+SRC0399,UP003,2026-01-01,benchmark study,annual_mwh_savings,137144,137144,86.9,complete,compare against prior cycle
+SRC0400,UP012,2026-02-17,analyst interview,customer_segment,164037,164037,80.8,complete,ready for tool update
+SRC0401,UP008,2026-04-08,web research,launch_date,66753,66753,80.6,complete,compare against prior cycle
+SRC0402,UP001,2026-02-13,analyst interview,customer_segment,84399,84399,81.3,complete,needs SME review
+SRC0403,UP008,2026-05-03,client spreadsheet,customer_segment,101735,101735,67.2,needs page reference,compare against prior cycle
+SRC0404,UP023,2026-01-22,client spreadsheet,customer_segment,58822,58822,96.8,complete,needs SME review
+SRC0405,UP025,2025-12-29,benchmark study,incentive_amount,1335,1335,74.6,complete,compare against prior cycle
+SRC0406,UP040,2026-03-31,analyst interview,customer_segment,15167,15167,79.2,needs page reference,confirm definition before publication
+SRC0407,UP007,2026-01-06,utility filing,launch_date,25279,25279,99,needs page reference,confirm definition before publication
+SRC0408,UP004,2026-02-26,utility filing,customer_segment,75967,75967,82.9,complete,ready for tool update
+SRC0409,UP039,2026-01-02,client spreadsheet,customer_segment,75805,75805,85.3,complete,needs SME review
+SRC0410,UP022,2026-01-07,program survey,launch_date,53626,53626,79.5,missing,compare against prior cycle
+SRC0411,UP025,2026-05-23,program survey,launch_date,134932,134932,79.8,complete,ready for tool update
+SRC0412,UP013,2026-02-17,client spreadsheet,eligibility_definition,income qualified,income qualified,86.0,complete,compare against prior cycle
+SRC0413,UP027,2026-05-09,analyst interview,incentive_amount,13966,13966,72.0,needs page reference,ready for tool update
+SRC0414,UP012,2026-04-16,benchmark study,customer_segment,113032,113032,74.3,complete,confirm definition before publication
+SRC0415,UP027,2026-02-27,utility filing,incentive_amount,219178,219178,99,complete,confirm definition before publication
+SRC0416,UP010,2026-01-23,benchmark study,eligibility_definition,all customers,all customers,82.8,complete,ready for tool update
+SRC0417,UP032,2026-04-04,benchmark study,participant_count,196632,196632,73.5,complete,compare against prior cycle
+SRC0418,UP036,2026-01-15,analyst interview,participant_count,37236,37236,93.2,needs page reference,ready for tool update
+SRC0419,UP042,2026-04-14,program survey,measure_cost,29385,29385,68.8,complete,needs SME review
+SRC0420,UP042,2026-05-24,analyst interview,annual_mwh_savings,84954,84954,83.3,complete,needs SME review
+SRC0421,UP003,2026-04-30,utility filing,measure_cost,10777,10777,87.2,complete,confirm definition before publication
+SRC0422,UP019,2026-02-17,web research,participant_count,80367,80367,89.3,complete,ready for tool update
+SRC0423,UP040,2026-02-07,program survey,incentive_amount,36195,36195,90.0,complete,ready for tool update
+SRC0424,UP002,2026-01-22,utility filing,incentive_amount,60222,60222,95.4,complete,confirm definition before publication
+SRC0425,UP010,2026-03-24,client spreadsheet,annual_mwh_savings,182507,182507,74.0,needs page reference,needs SME review
+SRC0426,UP003,2026-04-30,utility filing,participant_count,200374,200374,74.5,complete,confirm definition before publication
+SRC0427,UP016,2026-01-25,client spreadsheet,measure_cost,31687,31687,76.5,complete,needs SME review
+SRC0428,UP042,2026-01-16,program survey,annual_mwh_savings,135101,135101,99,complete,needs SME review
+SRC0429,UP006,2026-02-04,program survey,customer_segment,73420,73420,75.2,complete,ready for tool update
+SRC0430,UP033,2026-01-21,client spreadsheet,measure_cost,184006,184006,82.7,complete,needs SME review
+SRC0431,UP028,2026-02-07,program survey,customer_segment,98156,98156,79.9,complete,ready for tool update
+SRC0432,UP006,2026-01-13,analyst interview,eligibility_definition,all customers,all customers,75.9,complete,compare against prior cycle
+SRC0433,UP035,2026-05-26,client spreadsheet,measure_cost,171748,171748,99,complete,ready for tool update
+SRC0434,UP020,2026-05-11,benchmark study,annual_mwh_savings,160618,160618,64.8,complete,compare against prior cycle
+SRC0435,UP020,2026-04-17,benchmark study,incentive_amount,51351,51351,82.8,complete,confirm definition before publication
+SRC0436,UP036,2026-05-24,client spreadsheet,annual_mwh_savings,118994,118994,82.6,needs page reference,ready for tool update
+SRC0437,UP007,2026-04-17,analyst interview,customer_segment,16035,16035,78.3,complete,ready for tool update
+SRC0438,UP041,2026-01-09,client spreadsheet,eligibility_definition,all customers,all customers,72.6,complete,compare against prior cycle
+SRC0439,UP008,2026-02-03,client spreadsheet,eligibility_definition,custom,custom,81.1,needs page reference,confirm definition before publication
+SRC0440,UP040,2026-05-11,analyst interview,customer_segment,181294,181294,51.0,complete,compare against prior cycle
+SRC0441,UP016,2026-03-22,utility filing,measure_cost,217747,217747,86.3,complete,compare against prior cycle
+SRC0442,UP023,2026-02-04,program survey,eligibility_definition,all customers,all customers,69.1,needs page reference,compare against prior cycle
+SRC0443,UP018,2026-04-15,client spreadsheet,annual_mwh_savings,225645,225645,58.4,complete,needs SME review
+SRC0444,UP037,2026-01-20,web research,annual_mwh_savings,246879,246879,63.3,needs page reference,ready for tool update
+SRC0445,UP038,2026-04-05,analyst interview,launch_date,161103,161103,90.5,complete,confirm definition before publication
+SRC0446,UP014,2026-04-10,client spreadsheet,measure_cost,149026,149026,87.3,complete,compare against prior cycle
+SRC0447,UP016,2026-02-13,benchmark study,eligibility_definition,small business,small business,99,missing,compare against prior cycle
+SRC0448,UP024,2026-05-03,benchmark study,measure_cost,72796,72796,83.2,complete,ready for tool update
+SRC0449,UP041,2026-02-18,benchmark study,eligibility_definition,custom,custom,71.0,complete,confirm definition before publication
+SRC0450,UP016,2026-02-03,benchmark study,customer_segment,114674,114674,98.2,complete,compare against prior cycle
+SRC0451,UP019,2026-05-24,utility filing,eligibility_definition,small business,small business,80.2,complete,ready for tool update
+SRC0452,UP010,2026-02-11,client spreadsheet,participant_count,79881,79881,88.5,complete,compare against prior cycle
+SRC0453,UP008,2026-05-04,web research,eligibility_definition,custom,custom,64.2,complete,ready for tool update
+SRC0454,UP002,2026-05-05,analyst interview,participant_count,17466,17466,78.8,needs page reference,confirm definition before publication
+SRC0455,UP036,2026-02-22,web research,launch_date,180734,180734,82.9,complete,confirm definition before publication
+SRC0456,UP018,2026-02-27,web research,incentive_amount,17948,17948,90.6,complete,compare against prior cycle
+SRC0457,UP005,2026-04-14,client spreadsheet,participant_count,110049,110049,80.7,missing,compare against prior cycle
+SRC0458,UP038,2026-04-06,web research,measure_cost,106909,106909,64.5,complete,compare against prior cycle
+SRC0459,UP028,2026-05-17,client spreadsheet,customer_segment,27985,27985,85.1,complete,needs SME review
+SRC0460,UP035,2026-03-28,utility filing,customer_segment,220776,220776,88.1,complete,needs SME review
+SRC0461,UP029,2026-04-10,utility filing,eligibility_definition,income qualified,income qualified,82.3,complete,confirm definition before publication
+SRC0462,UP030,2026-02-17,web research,annual_mwh_savings,47912,47912,77.4,complete,ready for tool update
+SRC0463,UP024,2026-03-04,program survey,measure_cost,226406,226406,88.4,complete,ready for tool update
+SRC0464,UP010,2026-02-04,program survey,customer_segment,178664,178664,80.8,needs page reference,confirm definition before publication
+SRC0465,UP027,2026-04-22,utility filing,measure_cost,58668,58668,85.8,needs page reference,ready for tool update
+SRC0466,UP001,2026-01-07,utility filing,eligibility_definition,small business,small business,84.8,complete,confirm definition before publication
+SRC0467,UP013,2026-01-27,analyst interview,customer_segment,6976,6976,83.5,complete,confirm definition before publication
+SRC0468,UP041,2026-05-16,utility filing,measure_cost,101932,101932,79.1,needs page reference,needs SME review
+SRC0469,UP031,2026-05-06,analyst interview,participant_count,31537,31537,89.3,complete,confirm definition before publication
+SRC0470,UP012,2026-04-07,program survey,launch_date,25468,25468,91.4,complete,compare against prior cycle
+SRC0471,UP031,2026-01-13,utility filing,measure_cost,50658,50658,95.8,complete,confirm definition before publication
+SRC0472,UP018,2026-02-15,web research,eligibility_definition,all customers,all customers,94.7,missing,confirm definition before publication
+SRC0473,UP018,2026-01-12,analyst interview,participant_count,43253,43253,76.5,complete,compare against prior cycle
+SRC0474,UP032,2026-01-20,benchmark study,annual_mwh_savings,242771,242771,94.3,needs page reference,compare against prior cycle
+SRC0475,UP032,2026-03-03,program survey,participant_count,182579,182579,69.9,complete,compare against prior cycle
+SRC0476,UP004,2026-03-11,web research,eligibility_definition,custom,custom,86.5,complete,compare against prior cycle
+SRC0477,UP038,2026-05-13,client spreadsheet,incentive_amount,128912,128912,81.3,missing,confirm definition before publication
+SRC0478,UP029,2026-05-10,benchmark study,measure_cost,34100,34100,84.9,missing,confirm definition before publication
+SRC0479,UP006,2026-02-02,analyst interview,measure_cost,68306,68306,85.3,needs page reference,confirm definition before publication
+SRC0480,UP018,2026-01-12,web research,customer_segment,127665,127665,74.4,needs page reference,confirm definition before publication
+SRC0481,UP041,2026-04-26,client spreadsheet,annual_mwh_savings,237848,237848,83.9,complete,ready for tool update
+SRC0482,UP022,2026-05-05,client spreadsheet,eligibility_definition,small business,small business,82.5,complete,ready for tool update
+SRC0483,UP031,2026-03-17,program survey,launch_date,31726,31726,72.5,complete,confirm definition before publication
+SRC0484,UP018,2026-05-06,utility filing,annual_mwh_savings,149135,149135,89.9,missing,compare against prior cycle
+SRC0485,UP004,2026-04-17,client spreadsheet,annual_mwh_savings,63720,63720,71.6,needs page reference,needs SME review
+SRC0486,UP006,2026-02-25,utility filing,eligibility_definition,all customers,all customers,72.3,complete,compare against prior cycle
+SRC0487,UP037,2026-01-31,web research,incentive_amount,195410,195410,68.6,complete,confirm definition before publication
+SRC0488,UP040,2026-05-03,benchmark study,measure_cost,163029,163029,89.5,complete,needs SME review
+SRC0489,UP041,2026-04-25,web research,customer_segment,55792,55792,54.0,complete,needs SME review
+SRC0490,UP015,2026-05-21,benchmark study,customer_segment,243597,243597,77.6,complete,needs SME review
+SRC0491,UP042,2026-01-28,web research,eligibility_definition,custom,custom,68.6,complete,needs SME review
+SRC0492,UP034,2026-04-23,utility filing,measure_cost,471,471,72.1,complete,confirm definition before publication
+SRC0493,UP033,2026-02-27,analyst interview,customer_segment,40859,40859,70.4,complete,needs SME review
+SRC0494,UP039,2025-12-30,program survey,customer_segment,218957,218957,92.4,needs page reference,needs SME review
+SRC0495,UP036,2026-03-25,web research,customer_segment,51884,51884,68.4,missing,compare against prior cycle
+SRC0496,UP015,2026-02-18,program survey,incentive_amount,217185,217185,98.7,needs page reference,needs SME review
+SRC0497,UP017,2026-05-18,utility filing,launch_date,180544,180544,76.2,complete,confirm definition before publication
+SRC0498,UP022,2026-03-08,analyst interview,launch_date,7888,7888,66.9,complete,needs SME review
+SRC0499,UP031,2026-01-21,client spreadsheet,annual_mwh_savings,241731,241731,68.4,needs page reference,compare against prior cycle
+SRC0500,UP023,2026-03-13,benchmark study,measure_cost,127580,127580,84.1,missing,compare against prior cycle
+SRC0501,UP036,2026-04-12,client spreadsheet,eligibility_definition,small business,small business,90.3,needs page reference,ready for tool update
+SRC0502,UP039,2026-05-19,web research,eligibility_definition,small business,small business,74.6,complete,confirm definition before publication
+SRC0503,UP022,2026-03-12,program survey,annual_mwh_savings,94105,94105,81.1,complete,ready for tool update
+SRC0504,UP007,2026-03-30,benchmark study,annual_mwh_savings,105749,105749,71.2,complete,needs SME review
+SRC0505,UP040,2026-01-27,program survey,measure_cost,212153,212153,75.7,complete,ready for tool update
+SRC0506,UP014,2026-03-18,web research,annual_mwh_savings,243854,243854,90.9,complete,compare against prior cycle
+SRC0507,UP028,2026-03-07,benchmark study,eligibility_definition,income qualified,income qualified,75.1,complete,needs SME review
+SRC0508,UP007,2026-03-02,web research,participant_count,106586,106586,77.9,complete,confirm definition before publication
+SRC0509,UP002,2026-05-12,analyst interview,incentive_amount,3915,3915,74.6,complete,compare against prior cycle
+SRC0510,UP039,2026-04-25,client spreadsheet,measure_cost,25546,25546,94.3,complete,compare against prior cycle
+SRC0511,UP020,2026-03-08,benchmark study,eligibility_definition,all customers,all customers,70.8,missing,needs SME review
+SRC0512,UP027,2026-01-27,analyst interview,measure_cost,11262,11262,72.6,needs page reference,needs SME review
+SRC0513,UP028,2026-03-01,benchmark study,launch_date,240903,240903,97.4,complete,confirm definition before publication
+SRC0514,UP006,2026-05-07,web research,customer_segment,222734,222734,83.6,complete,compare against prior cycle
+SRC0515,UP008,2026-01-26,utility filing,participant_count,154336,154336,64.0,complete,ready for tool update
+SRC0516,UP011,2026-04-02,benchmark study,participant_count,223464,223464,82.9,complete,compare against prior cycle
+SRC0517,UP028,2026-04-16,client spreadsheet,measure_cost,209062,209062,80.1,complete,confirm definition before publication
+SRC0518,UP022,2026-05-15,benchmark study,customer_segment,67902,67902,70.5,complete,ready for tool update
+SRC0519,UP022,2026-01-18,analyst interview,incentive_amount,132226,132226,66.1,complete,ready for tool update
+SRC0520,UP037,2026-05-20,benchmark study,incentive_amount,182641,182641,50.7,complete,confirm definition before publication
+SRC0521,UP013,2026-03-27,web research,launch_date,32253,32253,95.6,complete,ready for tool update
+SRC0522,UP029,2026-02-09,benchmark study,incentive_amount,75050,75050,80.4,complete,compare against prior cycle
+SRC0523,UP016,2025-12-31,program survey,incentive_amount,84433,84433,71.4,missing,ready for tool update
+SRC0524,UP006,2026-02-25,analyst interview,annual_mwh_savings,41311,41311,81.9,complete,compare against prior cycle
+SRC0525,UP042,2026-04-11,utility filing,annual_mwh_savings,57210,57210,91.8,needs page reference,needs SME review
+SRC0526,UP039,2026-04-19,program survey,annual_mwh_savings,54317,54317,81.1,complete,confirm definition before publication
+SRC0527,UP025,2026-01-07,web research,annual_mwh_savings,35646,35646,88.8,complete,confirm definition before publication
+SRC0528,UP030,2026-03-01,program survey,measure_cost,218002,218002,86.6,complete,compare against prior cycle
+SRC0529,UP017,2026-02-01,client spreadsheet,eligibility_definition,custom,custom,87.6,complete,confirm definition before publication
+SRC0530,UP036,2026-02-10,analyst interview,annual_mwh_savings,227410,227410,76.4,complete,confirm definition before publication
+SRC0531,UP005,2026-01-14,client spreadsheet,measure_cost,150285,150285,92.3,complete,compare against prior cycle
+SRC0532,UP042,2026-03-22,program survey,participant_count,199357,199357,77.1,complete,ready for tool update
+SRC0533,UP036,2026-01-23,utility filing,customer_segment,230311,230311,95.9,complete,ready for tool update
+SRC0534,UP038,2026-03-30,utility filing,measure_cost,114107,114107,75.5,complete,compare against prior cycle
+SRC0535,UP017,2026-02-16,benchmark study,customer_segment,77303,77303,81.3,complete,needs SME review
+SRC0536,UP016,2025-12-29,utility filing,launch_date,6980,6980,90.5,complete,confirm definition before publication
+SRC0537,UP026,2026-05-17,web research,incentive_amount,245914,245914,93.7,complete,compare against prior cycle
+SRC0538,UP020,2026-01-19,client spreadsheet,incentive_amount,206648,206648,82.6,missing,compare against prior cycle
+SRC0539,UP022,2026-04-12,program survey,eligibility_definition,small business,small business,83.2,complete,ready for tool update
+SRC0540,UP005,2026-01-14,client spreadsheet,incentive_amount,76161,76161,75.8,complete,ready for tool update
+SRC0541,UP005,2026-05-06,program survey,participant_count,136029,136029,70.8,missing,needs SME review
+SRC0542,UP019,2026-04-22,analyst interview,measure_cost,229356,229356,71.3,complete,ready for tool update
+SRC0543,UP018,2026-01-14,utility filing,customer_segment,210535,210535,73.0,complete,confirm definition before publication
+SRC0544,UP009,2026-01-01,analyst interview,launch_date,157368,157368,92.9,complete,compare against prior cycle
+SRC0545,UP030,2026-03-10,client spreadsheet,annual_mwh_savings,65128,65128,81.5,complete,compare against prior cycle
+SRC0546,UP024,2026-02-21,analyst interview,eligibility_definition,small business,small business,77.4,complete,ready for tool update
+SRC0547,UP042,2026-01-13,analyst interview,annual_mwh_savings,150444,150444,86.5,complete,ready for tool update
+SRC0548,UP036,2026-01-28,utility filing,participant_count,219582,219582,77.7,complete,needs SME review
+SRC0549,UP023,2026-02-27,benchmark study,measure_cost,216681,216681,84.2,complete,needs SME review
+SRC0550,UP022,2026-03-14,program survey,measure_cost,240792,240792,86.8,complete,confirm definition before publication
+SRC0551,UP016,2026-02-09,benchmark study,launch_date,88414,88414,77.0,complete,confirm definition before publication
+SRC0552,UP033,2026-01-25,program survey,incentive_amount,115157,115157,89.5,complete,compare against prior cycle
+SRC0553,UP009,2026-03-04,program survey,eligibility_definition,small business,small business,92.8,complete,confirm definition before publication
+SRC0554,UP037,2026-01-11,analyst interview,measure_cost,76674,76674,91.0,missing,ready for tool update
+SRC0555,UP038,2026-04-04,utility filing,annual_mwh_savings,237813,237813,76.9,complete,confirm definition before publication
+SRC0556,UP024,2026-03-17,client spreadsheet,eligibility_definition,custom,custom,73.8,complete,confirm definition before publication
+SRC0557,UP010,2026-02-09,client spreadsheet,customer_segment,25153,25153,83.1,needs page reference,ready for tool update
+SRC0558,UP034,2026-04-04,utility filing,launch_date,70327,70327,82.1,complete,confirm definition before publication
+SRC0559,UP032,2026-03-12,web research,annual_mwh_savings,197506,197506,46.4,needs page reference,confirm definition before publication
+SRC0560,UP032,2026-01-27,web research,customer_segment,236547,236547,86.9,complete,needs SME review
+SRC0561,UP019,2026-03-17,web research,incentive_amount,245882,245882,74.4,complete,compare against prior cycle
+SRC0562,UP040,2026-03-21,web research,eligibility_definition,small business,small business,74.2,missing,needs SME review
+SRC0563,UP014,2026-01-30,program survey,measure_cost,140805,140805,72.3,complete,confirm definition before publication
+SRC0564,UP033,2026-03-29,utility filing,participant_count,152160,152160,88.9,needs page reference,confirm definition before publication
+SRC0565,UP015,2026-05-08,utility filing,annual_mwh_savings,113347,113347,99,complete,needs SME review
+SRC0566,UP040,2026-04-06,analyst interview,eligibility_definition,custom,custom,79.8,needs page reference,needs SME review
+SRC0567,UP022,2026-03-01,program survey,eligibility_definition,all customers,all customers,93.2,complete,ready for tool update
+SRC0568,UP038,2026-01-12,benchmark study,participant_count,26491,26491,80.9,complete,compare against prior cycle
+SRC0569,UP025,2026-04-15,analyst interview,annual_mwh_savings,182776,182776,57.0,complete,confirm definition before publication
+SRC0570,UP033,2026-01-05,client spreadsheet,participant_count,107871,107871,70.9,missing,confirm definition before publication
+SRC0571,UP001,2026-05-11,analyst interview,measure_cost,62134,62134,98.0,complete,ready for tool update
+SRC0572,UP028,2026-04-20,program survey,eligibility_definition,income qualified,income qualified,53.9,complete,confirm definition before publication
+SRC0573,UP005,2026-03-20,program survey,incentive_amount,53389,53389,95.2,complete,confirm definition before publication
+SRC0574,UP022,2026-02-09,analyst interview,eligibility_definition,all customers,all customers,83.4,complete,confirm definition before publication
+SRC0575,UP040,2026-03-14,benchmark study,measure_cost,231105,231105,97.7,complete,needs SME review
+SRC0576,UP014,2026-01-21,web research,measure_cost,78220,78220,65.9,complete,compare against prior cycle
+SRC0577,UP008,2026-05-22,client spreadsheet,participant_count,79504,79504,76.0,complete,compare against prior cycle
+SRC0578,UP018,2026-04-07,utility filing,eligibility_definition,small business,small business,95.8,missing,compare against prior cycle
+SRC0579,UP018,2026-03-22,analyst interview,customer_segment,203548,203548,95.9,complete,confirm definition before publication
+SRC0580,UP034,2026-03-12,analyst interview,customer_segment,148158,148158,97.8,complete,ready for tool update
+SRC0581,UP030,2026-01-17,analyst interview,launch_date,93169,93169,96.0,complete,needs SME review
+SRC0582,UP021,2026-03-02,program survey,launch_date,43377,43377,83.3,missing,ready for tool update
+SRC0583,UP013,2026-05-06,client spreadsheet,launch_date,22757,22757,87.1,complete,needs SME review
+SRC0584,UP025,2026-04-23,utility filing,incentive_amount,96917,96917,83.8,complete,needs SME review
+SRC0585,UP007,2026-04-16,client spreadsheet,eligibility_definition,all customers,all customers,93.9,complete,ready for tool update
+SRC0586,UP004,2026-05-18,utility filing,eligibility_definition,income qualified,income qualified,71.0,complete,ready for tool update
+SRC0587,UP026,2026-01-25,utility filing,annual_mwh_savings,44229,44229,89.0,complete,confirm definition before publication
+SRC0588,UP003,2026-02-14,client spreadsheet,eligibility_definition,all customers,all customers,72.0,complete,compare against prior cycle
+SRC0589,UP015,2026-02-22,analyst interview,participant_count,19776,19776,89.5,needs page reference,compare against prior cycle
+SRC0590,UP007,2026-05-19,program survey,annual_mwh_savings,42007,42007,69.3,complete,needs SME review
+SRC0591,UP037,2026-04-06,client spreadsheet,incentive_amount,176479,176479,70.8,complete,ready for tool update
+SRC0592,UP007,2026-05-01,analyst interview,eligibility_definition,all customers,all customers,80.1,needs page reference,confirm definition before publication
+SRC0593,UP015,2026-01-10,client spreadsheet,launch_date,217649,217649,83.7,complete,compare against prior cycle
+SRC0594,UP001,2026-04-19,analyst interview,launch_date,42382,42382,91.1,complete,needs SME review
+SRC0595,UP015,2026-03-09,web research,incentive_amount,51909,51909,82.4,needs page reference,needs SME review
+SRC0596,UP009,2026-02-26,benchmark study,annual_mwh_savings,176648,176648,86.1,complete,compare against prior cycle
+SRC0597,UP026,2026-05-08,benchmark study,annual_mwh_savings,204426,204426,88.2,complete,ready for tool update
+SRC0598,UP034,2026-04-07,client spreadsheet,measure_cost,114458,114458,77.0,complete,compare against prior cycle
+SRC0599,UP027,2026-01-10,utility filing,annual_mwh_savings,36195,36195,72.3,complete,needs SME review
+SRC0600,UP021,2026-04-17,analyst interview,annual_mwh_savings,3397,3397,80.7,complete,ready for tool update
+SRC0601,UP015,2026-01-29,benchmark study,launch_date,22890,22890,82.7,complete,confirm definition before publication
+SRC0602,UP033,2026-05-19,program survey,customer_segment,90526,90526,77.3,complete,ready for tool update
+SRC0603,UP034,2026-05-01,program survey,customer_segment,133358,133358,64.9,complete,ready for tool update
+SRC0604,UP031,2026-03-08,analyst interview,launch_date,161284,161284,90.2,complete,needs SME review
+SRC0605,UP010,2026-02-10,client spreadsheet,measure_cost,152873,152873,71.6,complete,confirm definition before publication
+SRC0606,UP030,2026-05-04,client spreadsheet,participant_count,80252,80252,96.3,complete,needs SME review
+SRC0607,UP027,2026-04-07,web research,launch_date,240787,240787,85.8,complete,confirm definition before publication
+SRC0608,UP001,2026-05-19,program survey,participant_count,30988,30988,71.1,complete,needs SME review
+SRC0609,UP029,2026-05-23,web research,launch_date,18308,18308,71.4,complete,compare against prior cycle
+SRC0610,UP036,2026-05-06,analyst interview,annual_mwh_savings,171495,171495,87.3,needs page reference,ready for tool update
+SRC0611,UP013,2026-02-19,benchmark study,eligibility_definition,income qualified,income qualified,75.1,complete,needs SME review
+SRC0612,UP030,2026-05-15,benchmark study,annual_mwh_savings,17986,17986,90.0,needs page reference,compare against prior cycle
+SRC0613,UP035,2026-01-14,program survey,incentive_amount,40264,40264,62.7,complete,compare against prior cycle
+SRC0614,UP030,2026-02-01,benchmark study,incentive_amount,12725,12725,77.9,missing,confirm definition before publication
+SRC0615,UP008,2026-04-29,analyst interview,eligibility_definition,all customers,all customers,92.4,needs page reference,ready for tool update
+SRC0616,UP024,2026-04-13,web research,annual_mwh_savings,74276,74276,77.1,needs page reference,needs SME review
+SRC0617,UP040,2026-01-29,program survey,incentive_amount,39045,39045,98.6,needs page reference,compare against prior cycle
+SRC0618,UP041,2026-05-22,utility filing,launch_date,228356,228356,87.3,complete,compare against prior cycle
+SRC0619,UP040,2026-04-12,program survey,annual_mwh_savings,3512,3512,78.2,complete,ready for tool update
+SRC0620,UP013,2026-02-27,web research,participant_count,87619,87619,57.1,complete,compare against prior cycle
+SRC0621,UP011,2026-04-13,benchmark study,launch_date,120880,120880,99,needs page reference,compare against prior cycle
+SRC0622,UP002,2026-04-14,client spreadsheet,incentive_amount,141876,141876,99,complete,needs SME review
+SRC0623,UP042,2026-04-18,benchmark study,customer_segment,120849,120849,87.4,complete,ready for tool update
+SRC0624,UP024,2026-01-20,analyst interview,incentive_amount,214339,214339,85.0,complete,compare against prior cycle
+SRC0625,UP028,2026-01-15,utility filing,participant_count,49056,49056,92.2,needs page reference,compare against prior cycle
+SRC0626,UP041,2026-02-07,benchmark study,eligibility_definition,custom,custom,93.3,complete,confirm definition before publication
+SRC0627,UP033,2026-01-12,utility filing,incentive_amount,96507,96507,81.9,missing,ready for tool update
+SRC0628,UP024,2026-04-04,utility filing,participant_count,116217,116217,79.0,complete,compare against prior cycle
+SRC0629,UP029,2026-05-05,client spreadsheet,incentive_amount,7025,7025,89.3,complete,compare against prior cycle
+SRC0630,UP042,2026-04-15,analyst interview,customer_segment,160429,160429,67.2,complete,compare against prior cycle
+SRC0631,UP022,2026-02-17,client spreadsheet,measure_cost,134867,134867,79.0,complete,confirm definition before publication
+SRC0632,UP023,2026-02-17,program survey,incentive_amount,26597,26597,83.9,complete,compare against prior cycle
+SRC0633,UP010,2026-02-24,benchmark study,participant_count,107488,107488,72.5,needs page reference,confirm definition before publication
+SRC0634,UP033,2026-01-08,program survey,eligibility_definition,all customers,all customers,77.9,complete,compare against prior cycle
+SRC0635,UP017,2026-05-05,benchmark study,eligibility_definition,income qualified,income qualified,87.2,complete,confirm definition before publication
+SRC0636,UP033,2026-01-28,web research,incentive_amount,84598,84598,85.2,complete,confirm definition before publication
+SRC0637,UP016,2026-05-18,benchmark study,annual_mwh_savings,178050,178050,99,complete,ready for tool update
+SRC0638,UP014,2026-05-03,benchmark study,measure_cost,91493,91493,99,complete,needs SME review
+SRC0639,UP013,2026-04-22,utility filing,customer_segment,9687,9687,54.9,needs page reference,ready for tool update
+SRC0640,UP023,2026-03-21,program survey,measure_cost,40825,40825,83.6,complete,ready for tool update
+SRC0641,UP009,2026-03-30,program survey,customer_segment,69109,69109,83.7,complete,compare against prior cycle
+SRC0642,UP011,2026-01-06,benchmark study,eligibility_definition,small business,small business,99,missing,confirm definition before publication
+SRC0643,UP035,2026-03-24,program survey,participant_count,9295,9295,76.5,complete,compare against prior cycle
+SRC0644,UP033,2026-04-26,client spreadsheet,customer_segment,239464,239464,69.7,complete,ready for tool update
+SRC0645,UP019,2026-03-05,program survey,participant_count,95945,95945,99,missing,ready for tool update
+SRC0646,UP039,2026-02-07,analyst interview,customer_segment,206183,206183,87.7,complete,compare against prior cycle
+SRC0647,UP004,2026-03-22,web research,eligibility_definition,income qualified,income qualified,85.7,needs page reference,ready for tool update
+SRC0648,UP017,2026-01-12,client spreadsheet,participant_count,173661,173661,74.2,complete,needs SME review
+SRC0649,UP007,2026-01-10,benchmark study,eligibility_definition,income qualified,income qualified,84.5,complete,compare against prior cycle
+SRC0650,UP017,2026-03-07,utility filing,eligibility_definition,all customers,all customers,79.6,complete,confirm definition before publication
+SRC0651,UP022,2026-01-30,client spreadsheet,incentive_amount,247923,247923,74.8,complete,ready for tool update
+SRC0652,UP019,2026-04-05,benchmark study,measure_cost,95315,95315,77.9,complete,confirm definition before publication
+SRC0653,UP007,2026-01-31,program survey,customer_segment,215905,215905,66.6,complete,confirm definition before publication
+SRC0654,UP012,2026-01-27,utility filing,annual_mwh_savings,179241,179241,99,needs page reference,compare against prior cycle
+SRC0655,UP041,2026-03-07,program survey,measure_cost,2553,2553,73.8,complete,confirm definition before publication
+SRC0656,UP025,2026-02-27,analyst interview,eligibility_definition,small business,small business,59.1,missing,compare against prior cycle
+SRC0657,UP024,2026-02-06,analyst interview,annual_mwh_savings,58808,58808,91.2,complete,confirm definition before publication
+SRC0658,UP038,2026-01-05,client spreadsheet,participant_count,80468,80468,69.4,complete,confirm definition before publication
+SRC0659,UP031,2026-05-24,program survey,eligibility_definition,income qualified,income qualified,90.1,complete,compare against prior cycle
+SRC0660,UP030,2026-04-01,benchmark study,eligibility_definition,small business,small business,84.1,complete,compare against prior cycle
+SRC0661,UP028,2026-01-11,utility filing,launch_date,176442,176442,82.7,complete,needs SME review
+SRC0662,UP015,2026-03-21,benchmark study,customer_segment,30193,30193,80.2,complete,ready for tool update
+SRC0663,UP036,2026-04-06,client spreadsheet,launch_date,153518,153518,95.5,complete,needs SME review
+SRC0664,UP025,2026-04-11,program survey,annual_mwh_savings,103220,103220,83.8,complete,confirm definition before publication
+SRC0665,UP016,2026-01-18,analyst interview,customer_segment,205505,205505,99,complete,ready for tool update
+SRC0666,UP032,2026-01-29,client spreadsheet,customer_segment,155639,155639,76.6,needs page reference,confirm definition before publication
+SRC0667,UP031,2026-02-01,web research,incentive_amount,107653,107653,83.4,complete,confirm definition before publication
+SRC0668,UP015,2026-05-12,web research,launch_date,61900,61900,74.5,complete,needs SME review
+SRC0669,UP041,2026-04-13,program survey,launch_date,86451,86451,92.5,complete,compare against prior cycle
+SRC0670,UP037,2026-04-21,benchmark study,participant_count,34070,34070,90.0,complete,confirm definition before publication
+SRC0671,UP041,2026-03-12,web research,customer_segment,175446,175446,95.5,complete,needs SME review
+SRC0672,UP007,2026-03-28,analyst interview,incentive_amount,79401,79401,99,missing,compare against prior cycle
+SRC0673,UP034,2026-03-01,web research,annual_mwh_savings,196703,196703,52.6,needs page reference,ready for tool update
+SRC0674,UP003,2026-02-09,web research,launch_date,95706,95706,80.7,missing,ready for tool update
+SRC0675,UP037,2026-05-08,utility filing,participant_count,50062,50062,99,complete,needs SME review
+SRC0676,UP042,2026-01-07,utility filing,launch_date,185143,185143,68.1,complete,ready for tool update
+SRC0677,UP025,2026-03-31,web research,launch_date,149162,149162,72.7,complete,compare against prior cycle
+SRC0678,UP027,2026-05-18,benchmark study,eligibility_definition,income qualified,income qualified,99,complete,needs SME review
+SRC0679,UP016,2026-03-14,web research,eligibility_definition,small business,small business,68.2,complete,compare against prior cycle
+SRC0680,UP038,2026-03-26,analyst interview,customer_segment,4419,4419,96.3,complete,compare against prior cycle
+SRC0681,UP008,2026-03-29,benchmark study,incentive_amount,162348,162348,81.5,missing,needs SME review
+SRC0682,UP009,2026-02-01,benchmark study,eligibility_definition,small business,small business,97.0,complete,confirm definition before publication
+SRC0683,UP020,2026-01-01,program survey,launch_date,30030,30030,91.3,complete,confirm definition before publication
+SRC0684,UP003,2026-03-14,benchmark study,customer_segment,134427,134427,81.9,complete,compare against prior cycle
+SRC0685,UP020,2026-04-20,benchmark study,annual_mwh_savings,206402,206402,72.2,complete,ready for tool update
+SRC0686,UP029,2026-03-31,benchmark study,launch_date,236831,236831,70.2,complete,needs SME review
+SRC0687,UP042,2026-02-07,program survey,measure_cost,177790,177790,76.9,complete,ready for tool update
+SRC0688,UP022,2026-03-08,client spreadsheet,customer_segment,146384,146384,63.0,needs page reference,confirm definition before publication
+SRC0689,UP011,2026-02-28,program survey,customer_segment,228654,228654,83.9,complete,needs SME review
+SRC0690,UP036,2026-03-13,web research,measure_cost,101452,101452,83.4,complete,compare against prior cycle
+SRC0691,UP016,2026-01-16,utility filing,incentive_amount,187619,187619,79.2,complete,needs SME review
+SRC0692,UP035,2026-01-11,utility filing,customer_segment,214386,214386,68.4,complete,needs SME review
+SRC0693,UP039,2026-02-19,program survey,launch_date,46348,46348,75.4,complete,needs SME review
+SRC0694,UP030,2026-04-01,benchmark study,eligibility_definition,income qualified,income qualified,74.8,missing,needs SME review
+SRC0695,UP031,2026-03-15,analyst interview,participant_count,59703,59703,89.1,complete,compare against prior cycle
+SRC0696,UP028,2026-03-25,utility filing,participant_count,177330,177330,84.2,complete,needs SME review
+SRC0697,UP011,2026-04-16,benchmark study,measure_cost,45836,45836,66.7,complete,needs SME review
+SRC0698,UP012,2026-03-19,web research,measure_cost,220877,220877,54.3,complete,ready for tool update
+SRC0699,UP034,2026-03-23,benchmark study,launch_date,161415,161415,91.5,complete,compare against prior cycle
+SRC0700,UP013,2026-01-31,benchmark study,incentive_amount,164181,164181,84.2,complete,compare against prior cycle
+SRC0701,UP021,2026-03-24,client spreadsheet,launch_date,95340,95340,84.6,missing,compare against prior cycle
+SRC0702,UP016,2026-05-20,analyst interview,launch_date,30876,30876,67.3,complete,compare against prior cycle
+SRC0703,UP022,2026-02-24,program survey,incentive_amount,74521,74521,80.9,complete,compare against prior cycle
+SRC0704,UP020,2026-01-23,benchmark study,incentive_amount,113601,113601,91.0,complete,ready for tool update
+SRC0705,UP031,2026-02-07,utility filing,participant_count,183543,183543,99,complete,ready for tool update
+SRC0706,UP031,2026-05-06,benchmark study,annual_mwh_savings,9449,9449,73.4,needs page reference,ready for tool update
+SRC0707,UP002,2026-02-20,benchmark study,incentive_amount,49754,49754,91.0,complete,needs SME review
+SRC0708,UP036,2026-01-01,client spreadsheet,annual_mwh_savings,57881,57881,97.0,complete,confirm definition before publication
+SRC0709,UP005,2026-03-15,utility filing,customer_segment,210303,210303,99,complete,compare against prior cycle
+SRC0710,UP026,2026-02-03,analyst interview,incentive_amount,219074,219074,74.0,missing,needs SME review
+SRC0711,UP015,2026-04-20,analyst interview,measure_cost,51544,51544,74.8,complete,needs SME review
+SRC0712,UP014,2026-04-10,utility filing,participant_count,24950,24950,72.3,complete,ready for tool update
+SRC0713,UP013,2026-05-25,analyst interview,eligibility_definition,income qualified,income qualified,62.4,complete,ready for tool update
+SRC0714,UP029,2026-04-26,analyst interview,launch_date,102169,102169,85.8,complete,confirm definition before publication
+SRC0715,UP034,2026-01-09,client spreadsheet,eligibility_definition,income qualified,income qualified,86.5,complete,confirm definition before publication
+SRC0716,UP002,2026-05-23,utility filing,participant_count,219534,219534,94.5,complete,compare against prior cycle
+SRC0717,UP031,2026-02-18,benchmark study,participant_count,55048,55048,86.8,complete,confirm definition before publication
+SRC0718,UP035,2026-05-03,program survey,annual_mwh_savings,101366,101366,93.2,complete,ready for tool update
+SRC0719,UP024,2026-04-30,analyst interview,measure_cost,196135,196135,74.9,complete,compare against prior cycle
+SRC0720,UP033,2026-04-24,benchmark study,customer_segment,94340,94340,81.5,complete,needs SME review

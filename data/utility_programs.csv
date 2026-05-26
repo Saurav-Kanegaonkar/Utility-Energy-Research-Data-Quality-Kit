@@ -1,0 +1,43 @@
+program_id,program_name,region,utility_type,program_area,customer_class,data_tool,owner,update_frequency,baseline_records,completeness_pct,last_verified_date,annual_mwh_savings,participant_count
+UP001,Pacific Residential weatherization,Midwest,dual fuel,Residential weatherization,residential,Utility Data Exchange,Program research,quarterly,1092,67.0,2026-03-14,140982,5013
+UP002,Midwest Small business direct install,Northeast,dual fuel,Small business direct install,industrial,Measure Insights,Subject matter expert,quarterly,1012,73.3,2026-04-28,165884,62763
+UP003,Midwest Income-qualified efficiency,Midwest,municipal,Income-qualified efficiency,residential,Program Tracker,Subject matter expert,quarterly,1348,91.7,2026-01-22,109789,28122
+UP004,Canada Transportation electrification,Mountain,gas,Transportation electrification,mixed,Utility Data Exchange,Analyst team,monthly,3643,68.8,2026-05-16,132608,331
+UP005,Pacific Small business direct install,Pacific,municipal,Small business direct install,commercial,DSM Benchmark,Analyst team,quarterly,695,67.1,2026-05-13,166494,30398
+UP006,Northeast Residential weatherization,Pacific,cooperative,Residential weatherization,residential,Program Tracker,Analyst team,monthly,2963,87.8,2026-03-05,129853,21715
+UP007,South Residential weatherization,Midwest,electric,Residential weatherization,residential,Measure Insights,Data operations,quarterly,2482,82.5,2026-04-09,28726,64320
+UP008,Canada Residential weatherization,Northeast,cooperative,Residential weatherization,industrial,Measure Insights,Program research,monthly,1238,83.3,2026-05-20,105738,36643
+UP009,Canada Small business direct install,Northeast,electric,Small business direct install,mixed,Program Tracker,Subject matter expert,quarterly,2032,99,2026-04-10,105128,13001
+UP010,Northeast Transportation electrification,Midwest,electric,Transportation electrification,industrial,Research Library,Data operations,weekly,2769,86.4,2026-04-04,79107,67655
+UP011,Northeast Small business direct install,South,gas,Small business direct install,residential,Measure Insights,Program research,weekly,4099,89.9,2026-05-14,143691,18061
+UP012,Northeast Small business direct install,Northeast,dual fuel,Small business direct install,industrial,Measure Insights,Program research,monthly,1972,85.3,2026-02-28,161868,28719
+UP013,Pacific Heat pump adoption,South,electric,Heat pump adoption,mixed,DSM Benchmark,Data operations,weekly,3588,95.9,2026-01-25,32414,33231
+UP014,Mountain Demand response,Mountain,dual fuel,Demand response,commercial,Research Library,Data operations,monthly,3938,85.5,2026-04-15,31538,62334
+UP015,Northeast Commercial lighting,Midwest,gas,Commercial lighting,commercial,Program Tracker,Program research,quarterly,1058,78.9,2026-05-10,65522,42948
+UP016,Northeast Commercial lighting,Midwest,gas,Commercial lighting,commercial,Research Library,Data operations,quarterly,3078,97.8,2026-03-15,26508,17144
+UP017,Pacific Commercial lighting,Canada,municipal,Commercial lighting,commercial,Utility Data Exchange,Data operations,quarterly,1293,89.2,2026-04-25,184178,20092
+UP018,Northeast Commercial lighting,Mountain,cooperative,Commercial lighting,industrial,Utility Data Exchange,Analyst team,quarterly,3320,79.0,2026-03-28,106910,55062
+UP019,South Heat pump adoption,Midwest,electric,Heat pump adoption,residential,Utility Data Exchange,Analyst team,quarterly,1016,85.6,2026-03-25,17713,5987
+UP020,Midwest Small business direct install,Northeast,electric,Small business direct install,residential,Measure Insights,Program research,weekly,1167,84.2,2026-04-04,17318,1031
+UP021,Canada Income-qualified efficiency,Northeast,cooperative,Income-qualified efficiency,commercial,Measure Insights,Subject matter expert,weekly,2842,93.7,2026-03-05,23533,64717
+UP022,Midwest Commercial lighting,Midwest,dual fuel,Commercial lighting,industrial,DSM Benchmark,Program research,quarterly,1856,84.6,2026-04-25,108757,66703
+UP023,Canada Transportation electrification,Canada,electric,Transportation electrification,residential,Research Library,Program research,monthly,1718,79.5,2026-02-07,116452,26414
+UP024,South Commercial lighting,Midwest,gas,Commercial lighting,mixed,Research Library,Data operations,quarterly,1765,91.9,2026-03-16,175066,43325
+UP025,Pacific Heat pump adoption,South,municipal,Heat pump adoption,industrial,DSM Benchmark,Program research,quarterly,2561,87.0,2026-03-19,43754,17265
+UP026,South Small business direct install,Northeast,municipal,Small business direct install,mixed,Program Tracker,Data operations,monthly,2306,74.8,2026-04-25,8645,6039
+UP027,Mountain Commercial lighting,Midwest,municipal,Commercial lighting,mixed,Utility Data Exchange,Data operations,weekly,3989,83.4,2026-04-26,130686,57161
+UP028,Northeast Demand response,South,dual fuel,Demand response,residential,DSM Benchmark,Data operations,monthly,436,90.8,2026-05-01,86017,54638
+UP029,Canada Residential weatherization,Midwest,municipal,Residential weatherization,industrial,Program Tracker,Subject matter expert,quarterly,1483,73.2,2026-04-13,77185,48857
+UP030,Canada Commercial lighting,Mountain,gas,Commercial lighting,commercial,Measure Insights,Program research,weekly,2164,91.0,2026-01-28,133498,13232
+UP031,Mountain Income-qualified efficiency,South,cooperative,Income-qualified efficiency,residential,Utility Data Exchange,Data operations,quarterly,4174,89.8,2026-03-02,59426,14890
+UP032,Northeast Heat pump adoption,South,electric,Heat pump adoption,industrial,Measure Insights,Analyst team,quarterly,3334,81.6,2026-03-02,97228,18958
+UP033,Midwest Demand response,South,dual fuel,Demand response,commercial,Program Tracker,Data operations,weekly,2768,77.6,2026-02-08,27122,3058
+UP034,Mountain Transportation electrification,Canada,cooperative,Transportation electrification,residential,Program Tracker,Data operations,monthly,2548,80.8,2026-04-26,43461,62311
+UP035,Midwest Residential weatherization,Pacific,gas,Residential weatherization,commercial,DSM Benchmark,Data operations,quarterly,3797,86.2,2026-03-28,50930,32783
+UP036,Midwest Small business direct install,Pacific,dual fuel,Small business direct install,commercial,Utility Data Exchange,Program research,quarterly,3116,82.7,2026-03-15,50960,32922
+UP037,Midwest Transportation electrification,South,electric,Transportation electrification,mixed,Program Tracker,Data operations,monthly,3213,95.4,2026-02-26,87457,31749
+UP038,Mountain Small business direct install,Canada,gas,Small business direct install,residential,Measure Insights,Data operations,monthly,3797,81.3,2026-03-14,8432,26147
+UP039,Midwest Commercial lighting,Canada,municipal,Commercial lighting,mixed,DSM Benchmark,Program research,quarterly,4164,72.3,2026-02-26,147665,37908
+UP040,Canada Heat pump adoption,Mountain,gas,Heat pump adoption,commercial,DSM Benchmark,Data operations,monthly,1725,81.2,2026-03-20,6905,9895
+UP041,Midwest Heat pump adoption,Northeast,gas,Heat pump adoption,industrial,Program Tracker,Analyst team,monthly,4118,84.0,2026-05-09,149977,41441
+UP042,Pacific Transportation electrification,Northeast,electric,Transportation electrification,commercial,Research Library,Program research,weekly,2066,99,2026-05-06,69891,32141

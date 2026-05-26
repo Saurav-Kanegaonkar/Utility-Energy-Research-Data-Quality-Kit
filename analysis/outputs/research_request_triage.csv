@@ -1,0 +1,97 @@
+request_id,program_id,program_area,request_type,audience,due_date,triage_score,source_need,status,recommended_response
+REQ0010,UP040,Heat pump adoption,data pull,subject matter expert,2026-05-26,123.2,survey notes with page references,new,Answer with QA caveat and owner follow-up
+REQ0069,UP014,Demand response,webinar exhibit,executive reviewer,2026-05-27,121.6,survey notes with page references,in progress,Answer with QA caveat and owner follow-up
+REQ0013,UP016,Commercial lighting,webinar exhibit,subject matter expert,2026-05-23,112.4,client spreadsheet reconciliation,new,Answer with QA caveat and owner follow-up
+REQ0019,UP001,Residential weatherization,data pull,subject matter expert,2026-05-24,111.6,program history and participation trend,triaged,Prepare analyst-ready evidence pack
+REQ0087,UP032,Heat pump adoption,article support,executive reviewer,2026-05-22,111.0,program history and participation trend,triaged,Prepare analyst-ready evidence pack
+REQ0074,UP038,Small business direct install,webinar exhibit,utility client,2026-05-26,109.3,client spreadsheet reconciliation,new,Prepare analyst-ready evidence pack
+REQ0095,UP023,Transportation electrification,data pull,utility client,2026-05-24,109.1,client spreadsheet reconciliation,in progress,Prepare analyst-ready evidence pack
+REQ0014,UP018,Commercial lighting,article support,subject matter expert,2026-05-23,105.8,primary utility filing plus benchmark comparison,new,Prepare analyst-ready evidence pack
+REQ0067,UP021,Income-qualified efficiency,article support,internal analyst,2026-05-23,101.4,program history and participation trend,new,Prepare analyst-ready evidence pack
+REQ0051,UP040,Heat pump adoption,report update,subject matter expert,2026-06-03,97.6,program history and participation trend,in progress,Draft summary after citation cleanup
+REQ0088,UP003,Income-qualified efficiency,report update,executive reviewer,2026-05-27,95.8,primary utility filing plus benchmark comparison,in progress,Prepare analyst-ready evidence pack
+REQ0006,UP028,Demand response,webinar exhibit,executive reviewer,2026-05-23,93.8,survey notes with page references,ready,Prepare analyst-ready evidence pack
+REQ0005,UP019,Heat pump adoption,client question,internal analyst,2026-05-23,93.0,client spreadsheet reconciliation,triaged,Send concise finding with source note
+REQ0073,UP021,Income-qualified efficiency,report update,subject matter expert,2026-05-26,91.8,survey notes with page references,ready,Prepare analyst-ready evidence pack
+REQ0057,UP023,Transportation electrification,report update,subject matter expert,2026-05-30,89.9,survey notes with page references,in progress,Prepare analyst-ready evidence pack
+REQ0050,UP003,Income-qualified efficiency,data pull,internal analyst,2026-05-29,89.4,client spreadsheet reconciliation,in progress,Prepare analyst-ready evidence pack
+REQ0068,UP024,Commercial lighting,client question,subject matter expert,2026-05-31,89.2,client spreadsheet reconciliation,triaged,Send concise finding with source note
+REQ0082,UP021,Income-qualified efficiency,webinar exhibit,executive reviewer,2026-05-27,88.6,program history and participation trend,triaged,Prepare analyst-ready evidence pack
+REQ0047,UP022,Commercial lighting,data pull,subject matter expert,2026-05-31,87.3,survey notes with page references,new,Answer with QA caveat and owner follow-up
+REQ0078,UP038,Small business direct install,data pull,subject matter expert,2026-06-02,86.9,primary utility filing plus benchmark comparison,in progress,Prepare analyst-ready evidence pack
+REQ0064,UP019,Heat pump adoption,data pull,utility client,2026-05-25,86.6,survey notes with page references,triaged,Prepare analyst-ready evidence pack
+REQ0018,UP011,Small business direct install,report update,internal analyst,2026-05-24,81.2,survey notes with page references,ready,Prepare analyst-ready evidence pack
+REQ0063,UP011,Small business direct install,report update,executive reviewer,2026-05-24,81.2,program history and participation trend,new,Prepare analyst-ready evidence pack
+REQ0084,UP009,Small business direct install,report update,executive reviewer,2026-05-24,81.1,program history and participation trend,triaged,Prepare analyst-ready evidence pack
+REQ0035,UP031,Income-qualified efficiency,data pull,utility client,2026-05-25,80.4,client spreadsheet reconciliation,new,Prepare analyst-ready evidence pack
+REQ0022,UP036,Small business direct install,webinar exhibit,internal analyst,2026-05-31,79.9,primary utility filing plus benchmark comparison,new,Draft summary after citation cleanup
+REQ0033,UP025,Heat pump adoption,report update,utility client,2026-05-30,78.0,client spreadsheet reconciliation,ready,Prepare analyst-ready evidence pack
+REQ0056,UP029,Residential weatherization,article support,internal analyst,2026-05-31,77.2,survey notes with page references,in progress,Prepare analyst-ready evidence pack
+REQ0011,UP007,Residential weatherization,article support,subject matter expert,2026-05-28,76.6,program history and participation trend,in progress,Prepare analyst-ready evidence pack
+REQ0036,UP036,Small business direct install,data pull,internal analyst,2026-06-02,73.5,primary utility filing plus benchmark comparison,in progress,Prepare analyst-ready evidence pack
+REQ0025,UP012,Small business direct install,article support,executive reviewer,2026-05-29,70.5,program history and participation trend,triaged,Prepare analyst-ready evidence pack
+REQ0030,UP021,Income-qualified efficiency,webinar exhibit,executive reviewer,2026-06-02,69.4,program history and participation trend,new,Prepare analyst-ready evidence pack
+REQ0076,UP013,Heat pump adoption,webinar exhibit,subject matter expert,2026-06-19,69.0,program history and participation trend,new,Answer with QA caveat and owner follow-up
+REQ0096,UP014,Demand response,article support,internal analyst,2026-06-25,67.2,primary utility filing plus benchmark comparison,new,Answer with QA caveat and owner follow-up
+REQ0086,UP040,Heat pump adoption,article support,subject matter expert,2026-06-19,65.6,primary utility filing plus benchmark comparison,triaged,Answer with QA caveat and owner follow-up
+REQ0008,UP029,Residential weatherization,article support,internal analyst,2026-06-04,64.4,survey notes with page references,triaged,Prepare analyst-ready evidence pack
+REQ0039,UP017,Commercial lighting,client question,utility client,2026-06-07,64.1,client spreadsheet reconciliation,in progress,Answer with QA caveat and owner follow-up
+REQ0048,UP009,Small business direct install,data pull,utility client,2026-05-30,61.9,survey notes with page references,ready,Prepare analyst-ready evidence pack
+REQ0077,UP008,Residential weatherization,data pull,subject matter expert,2026-06-04,59.9,survey notes with page references,ready,Prepare analyst-ready evidence pack
+REQ0046,UP042,Transportation electrification,client question,subject matter expert,2026-05-30,58.0,client spreadsheet reconciliation,new,Send concise finding with source note
+REQ0001,UP003,Income-qualified efficiency,webinar exhibit,utility client,2026-06-08,57.4,program history and participation trend,new,Prepare analyst-ready evidence pack
+REQ0042,UP001,Residential weatherization,webinar exhibit,internal analyst,2026-06-10,57.2,survey notes with page references,triaged,Prepare analyst-ready evidence pack
+REQ0072,UP001,Residential weatherization,client question,subject matter expert,2026-06-10,57.2,survey notes with page references,new,Send concise finding with source note
+REQ0015,UP002,Small business direct install,data pull,subject matter expert,2026-06-05,56.3,survey notes with page references,new,Prepare analyst-ready evidence pack
+REQ0045,UP028,Demand response,webinar exhibit,executive reviewer,2026-06-04,55.4,survey notes with page references,triaged,Prepare analyst-ready evidence pack
+REQ0092,UP036,Small business direct install,article support,internal analyst,2026-06-08,54.3,primary utility filing plus benchmark comparison,triaged,Prepare analyst-ready evidence pack
+REQ0021,UP026,Small business direct install,data pull,utility client,2026-06-06,54.1,primary utility filing plus benchmark comparison,triaged,Prepare analyst-ready evidence pack
+REQ0049,UP042,Transportation electrification,data pull,utility client,2026-06-01,51.6,survey notes with page references,triaged,Prepare analyst-ready evidence pack
+REQ0024,UP034,Transportation electrification,webinar exhibit,utility client,2026-06-10,48.9,program history and participation trend,triaged,Prepare analyst-ready evidence pack
+REQ0090,UP001,Residential weatherization,webinar exhibit,utility client,2026-06-15,47.6,survey notes with page references,ready,Prepare analyst-ready evidence pack
+REQ0052,UP034,Transportation electrification,article support,subject matter expert,2026-06-11,45.7,primary utility filing plus benchmark comparison,in progress,Prepare analyst-ready evidence pack
+REQ0079,UP034,Transportation electrification,webinar exhibit,executive reviewer,2026-06-11,45.7,client spreadsheet reconciliation,in progress,Prepare analyst-ready evidence pack
+REQ0017,UP006,Residential weatherization,data pull,subject matter expert,2026-06-16,45.2,survey notes with page references,triaged,Answer with QA caveat and owner follow-up
+REQ0023,UP023,Transportation electrification,article support,internal analyst,2026-06-18,45.1,survey notes with page references,ready,Prepare analyst-ready evidence pack
+REQ0059,UP023,Transportation electrification,article support,utility client,2026-06-15,45.1,program history and participation trend,in progress,Prepare analyst-ready evidence pack
+REQ0075,UP023,Transportation electrification,webinar exhibit,utility client,2026-06-21,45.1,survey notes with page references,ready,Prepare analyst-ready evidence pack
+REQ0061,UP017,Commercial lighting,client question,internal analyst,2026-06-16,44.9,survey notes with page references,triaged,Answer with QA caveat and owner follow-up
+REQ0065,UP017,Commercial lighting,report update,subject matter expert,2026-06-14,44.9,primary utility filing plus benchmark comparison,ready,Answer with QA caveat and owner follow-up
+REQ0091,UP017,Commercial lighting,data pull,utility client,2026-06-20,44.9,primary utility filing plus benchmark comparison,new,Answer with QA caveat and owner follow-up
+REQ0041,UP041,Heat pump adoption,webinar exhibit,subject matter expert,2026-06-06,44.2,program history and participation trend,new,Prepare analyst-ready evidence pack
+REQ0004,UP027,Commercial lighting,client question,internal analyst,2026-06-21,43.7,program history and participation trend,ready,Send concise finding with source note
+REQ0054,UP027,Commercial lighting,client question,executive reviewer,2026-06-13,43.7,program history and participation trend,triaged,Send concise finding with source note
+REQ0081,UP027,Commercial lighting,article support,executive reviewer,2026-06-22,43.7,primary utility filing plus benchmark comparison,new,Prepare analyst-ready evidence pack
+REQ0028,UP002,Small business direct install,data pull,internal analyst,2026-06-09,43.5,client spreadsheet reconciliation,new,Prepare analyst-ready evidence pack
+REQ0070,UP034,Transportation electrification,client question,utility client,2026-06-12,42.5,primary utility filing plus benchmark comparison,ready,Send concise finding with source note
+REQ0020,UP033,Demand response,client question,internal analyst,2026-06-25,42.4,survey notes with page references,in progress,Send concise finding with source note
+REQ0007,UP004,Transportation electrification,data pull,subject matter expert,2026-06-25,41.5,client spreadsheet reconciliation,new,Prepare analyst-ready evidence pack
+REQ0027,UP004,Transportation electrification,client question,subject matter expert,2026-06-18,41.5,primary utility filing plus benchmark comparison,ready,Send concise finding with source note
+REQ0043,UP004,Transportation electrification,client question,executive reviewer,2026-06-18,41.5,client spreadsheet reconciliation,ready,Send concise finding with source note
+REQ0060,UP003,Income-qualified efficiency,data pull,executive reviewer,2026-06-13,41.4,program history and participation trend,new,Prepare analyst-ready evidence pack
+REQ0032,UP032,Heat pump adoption,client question,subject matter expert,2026-06-22,40.6,client spreadsheet reconciliation,in progress,Send concise finding with source note
+REQ0089,UP034,Transportation electrification,webinar exhibit,internal analyst,2026-06-13,39.3,survey notes with page references,triaged,Prepare analyst-ready evidence pack
+REQ0003,UP018,Commercial lighting,report update,subject matter expert,2026-06-21,38.6,program history and participation trend,new,Draft summary after citation cleanup
+REQ0083,UP015,Commercial lighting,data pull,executive reviewer,2026-06-23,38.0,program history and participation trend,new,Prepare analyst-ready evidence pack
+REQ0009,UP035,Residential weatherization,webinar exhibit,executive reviewer,2026-06-16,34.2,program history and participation trend,triaged,Prepare analyst-ready evidence pack
+REQ0037,UP035,Residential weatherization,data pull,executive reviewer,2026-06-25,34.2,client spreadsheet reconciliation,in progress,Prepare analyst-ready evidence pack
+REQ0053,UP035,Residential weatherization,webinar exhibit,internal analyst,2026-06-21,34.2,survey notes with page references,new,Prepare analyst-ready evidence pack
+REQ0085,UP021,Income-qualified efficiency,article support,subject matter expert,2026-06-19,34.2,primary utility filing plus benchmark comparison,triaged,Prepare analyst-ready evidence pack
+REQ0093,UP012,Small business direct install,client question,executive reviewer,2026-06-10,32.1,survey notes with page references,in progress,Send concise finding with source note
+REQ0016,UP010,Transportation electrification,article support,utility client,2026-06-18,31.2,client spreadsheet reconciliation,new,Prepare analyst-ready evidence pack
+REQ0071,UP010,Transportation electrification,article support,subject matter expert,2026-06-16,31.2,primary utility filing plus benchmark comparison,triaged,Prepare analyst-ready evidence pack
+REQ0058,UP031,Income-qualified efficiency,webinar exhibit,subject matter expert,2026-06-10,29.2,primary utility filing plus benchmark comparison,in progress,Prepare analyst-ready evidence pack
+REQ0055,UP005,Small business direct install,data pull,utility client,2026-06-12,29.1,primary utility filing plus benchmark comparison,in progress,Prepare analyst-ready evidence pack
+REQ0026,UP042,Transportation electrification,webinar exhibit,subject matter expert,2026-06-09,26.0,program history and participation trend,new,Prepare analyst-ready evidence pack
+REQ0012,UP019,Heat pump adoption,data pull,utility client,2026-06-25,25.8,client spreadsheet reconciliation,in progress,Prepare analyst-ready evidence pack
+REQ0044,UP019,Heat pump adoption,client question,internal analyst,2026-06-15,25.8,primary utility filing plus benchmark comparison,triaged,Send concise finding with source note
+REQ0066,UP007,Residential weatherization,webinar exhibit,utility client,2026-06-25,25.4,client spreadsheet reconciliation,triaged,Prepare analyst-ready evidence pack
+REQ0094,UP007,Residential weatherization,report update,internal analyst,2026-06-15,25.4,program history and participation trend,new,Prepare analyst-ready evidence pack
+REQ0034,UP012,Small business direct install,report update,utility client,2026-06-14,22.5,primary utility filing plus benchmark comparison,triaged,Prepare analyst-ready evidence pack
+REQ0002,UP041,Heat pump adoption,data pull,subject matter expert,2026-06-18,21.8,primary utility filing plus benchmark comparison,triaged,Prepare analyst-ready evidence pack
+REQ0031,UP041,Heat pump adoption,article support,subject matter expert,2026-06-23,21.8,client spreadsheet reconciliation,in progress,Prepare analyst-ready evidence pack
+REQ0040,UP041,Heat pump adoption,webinar exhibit,subject matter expert,2026-06-16,21.8,survey notes with page references,ready,Prepare analyst-ready evidence pack
+REQ0038,UP011,Small business direct install,data pull,utility client,2026-06-12,20.4,primary utility filing plus benchmark comparison,ready,Prepare analyst-ready evidence pack
+REQ0080,UP031,Income-qualified efficiency,report update,utility client,2026-06-16,19.6,survey notes with page references,new,Prepare analyst-ready evidence pack
+REQ0062,UP011,Small business direct install,article support,subject matter expert,2026-06-15,17.2,client spreadsheet reconciliation,new,Prepare analyst-ready evidence pack
+REQ0029,UP042,Transportation electrification,data pull,internal analyst,2026-06-24,13.2,primary utility filing plus benchmark comparison,triaged,Prepare analyst-ready evidence pack

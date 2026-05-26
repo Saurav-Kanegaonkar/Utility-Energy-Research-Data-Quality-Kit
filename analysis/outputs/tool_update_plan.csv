@@ -1,0 +1,137 @@
+update_id,program_id,data_tool,update_type,records_pending,completeness_pct,blocker,priority_score,recommended_next_step
+UPD0001,UP013,DSM Benchmark,populate new row,259,100,none,125.4,update tool after citation check
+UPD0079,UP013,DSM Benchmark,populate new row,223,88.9,conflicting sources,125.4,send source question to owner
+UPD0006,UP013,DSM Benchmark,refresh stale field,110,100,conflicting sources,125.4,refresh benchmark comparison
+UPD0034,UP013,DSM Benchmark,document definition,69,100,none,125.4,publish with caveat
+UPD0110,UP014,Research Library,populate new row,250,70.2,none,122.1,send source question to owner
+UPD0107,UP014,Research Library,refresh stale field,249,85.7,SME review,122.1,hold for SME review
+UPD0054,UP014,Research Library,publish summary,207,88.9,late client file,122.1,hold for SME review
+UPD0070,UP014,Research Library,document definition,207,86.2,missing citation,122.1,publish with caveat
+UPD0004,UP014,Research Library,publish summary,122,90.4,missing citation,122.1,hold for SME review
+UPD0058,UP014,Research Library,document definition,9,87.7,none,122.1,update tool after citation check
+UPD0095,UP014,Research Library,refresh stale field,9,75.6,missing citation,122.1,send source question to owner
+UPD0075,UP040,DSM Benchmark,refresh stale field,259,86.9,SME review,119.3,publish with caveat
+UPD0131,UP040,DSM Benchmark,populate new row,220,75.1,none,119.3,update tool after citation check
+UPD0078,UP040,DSM Benchmark,refresh stale field,158,70.5,none,119.3,publish with caveat
+UPD0116,UP040,DSM Benchmark,publish summary,146,73.7,SME review,119.3,publish with caveat
+UPD0059,UP040,DSM Benchmark,populate new row,137,69.5,late client file,119.3,refresh benchmark comparison
+UPD0041,UP040,DSM Benchmark,refresh stale field,21,84.9,missing citation,119.3,send source question to owner
+UPD0026,UP038,Measure Insights,populate new row,243,66.1,none,94.0,update tool after citation check
+UPD0050,UP038,Measure Insights,publish summary,189,79.8,none,94.0,publish with caveat
+UPD0073,UP038,Measure Insights,publish summary,179,80.7,none,94.0,publish with caveat
+UPD0053,UP038,Measure Insights,refresh stale field,61,97.2,none,94.0,refresh benchmark comparison
+UPD0005,UP038,Measure Insights,populate new row,48,81.3,missing citation,94.0,hold for SME review
+UPD0105,UP038,Measure Insights,publish summary,43,68.7,SME review,94.0,update tool after citation check
+UPD0019,UP039,DSM Benchmark,document definition,222,73.1,missing citation,92.4,update tool after citation check
+UPD0030,UP039,DSM Benchmark,publish summary,52,85.0,SME review,92.4,hold for SME review
+UPD0051,UP037,Program Tracker,document definition,206,92.9,none,87.8,publish with caveat
+UPD0052,UP037,Program Tracker,refresh stale field,192,100,late client file,87.8,refresh benchmark comparison
+UPD0076,UP037,Program Tracker,document definition,133,91.4,late client file,87.8,refresh benchmark comparison
+UPD0013,UP024,Research Library,publish summary,229,97.1,none,86.6,send source question to owner
+UPD0130,UP024,Research Library,publish summary,199,92.3,conflicting sources,86.6,refresh benchmark comparison
+UPD0022,UP024,Research Library,document definition,138,98.8,conflicting sources,86.6,update tool after citation check
+UPD0038,UP001,Utility Data Exchange,publish summary,184,79.0,missing citation,86.5,update tool after citation check
+UPD0127,UP001,Utility Data Exchange,publish summary,47,62.5,none,86.5,publish with caveat
+UPD0089,UP022,DSM Benchmark,refresh stale field,255,100,conflicting sources,83.1,hold for SME review
+UPD0023,UP030,Measure Insights,reconcile source conflict,237,90.7,conflicting sources,83.1,refresh benchmark comparison
+UPD0048,UP022,DSM Benchmark,publish summary,175,77.6,none,83.1,refresh benchmark comparison
+UPD0035,UP030,Measure Insights,refresh stale field,169,85.0,none,83.1,update tool after citation check
+UPD0109,UP030,Measure Insights,populate new row,159,80.8,conflicting sources,83.1,publish with caveat
+UPD0106,UP022,DSM Benchmark,document definition,130,85.5,none,83.1,update tool after citation check
+UPD0061,UP022,DSM Benchmark,reconcile source conflict,79,81.6,none,83.1,update tool after citation check
+UPD0018,UP022,DSM Benchmark,reconcile source conflict,64,84.3,conflicting sources,83.1,refresh benchmark comparison
+UPD0064,UP030,Measure Insights,document definition,33,100,SME review,83.1,hold for SME review
+UPD0009,UP006,Program Tracker,reconcile source conflict,200,90.3,none,82.2,publish with caveat
+UPD0028,UP006,Program Tracker,populate new row,74,77.8,none,82.2,refresh benchmark comparison
+UPD0081,UP006,Program Tracker,publish summary,70,88.3,SME review,82.2,publish with caveat
+UPD0104,UP006,Program Tracker,publish summary,33,84.4,none,82.2,publish with caveat
+UPD0098,UP016,Research Library,document definition,151,99.4,none,82.1,update tool after citation check
+UPD0017,UP016,Research Library,document definition,104,100,none,82.1,publish with caveat
+UPD0112,UP016,Research Library,publish summary,18,100,missing citation,82.1,hold for SME review
+UPD0014,UP023,Research Library,refresh stale field,135,85.7,none,82.0,publish with caveat
+UPD0066,UP023,Research Library,publish summary,101,75.9,missing citation,82.0,hold for SME review
+UPD0055,UP023,Research Library,publish summary,22,78.6,none,82.0,publish with caveat
+UPD0015,UP017,Utility Data Exchange,publish summary,227,94.4,late client file,81.6,publish with caveat
+UPD0049,UP017,Utility Data Exchange,reconcile source conflict,184,96.0,late client file,81.6,publish with caveat
+UPD0067,UP017,Utility Data Exchange,reconcile source conflict,72,84.3,SME review,81.6,hold for SME review
+UPD0046,UP017,Utility Data Exchange,document definition,4,91.0,none,81.6,hold for SME review
+UPD0077,UP027,Utility Data Exchange,refresh stale field,253,68.4,SME review,79.4,refresh benchmark comparison
+UPD0114,UP027,Utility Data Exchange,refresh stale field,143,76.9,conflicting sources,79.4,refresh benchmark comparison
+UPD0071,UP027,Utility Data Exchange,reconcile source conflict,116,88.3,SME review,79.4,publish with caveat
+UPD0093,UP027,Utility Data Exchange,populate new row,21,85.5,SME review,79.4,refresh benchmark comparison
+UPD0117,UP033,Program Tracker,reconcile source conflict,216,63.1,none,77.0,refresh benchmark comparison
+UPD0085,UP033,Program Tracker,reconcile source conflict,203,75.4,late client file,77.0,refresh benchmark comparison
+UPD0087,UP033,Program Tracker,populate new row,116,88.3,none,77.0,update tool after citation check
+UPD0063,UP033,Program Tracker,publish summary,13,94.8,conflicting sources,77.0,publish with caveat
+UPD0121,UP004,Utility Data Exchange,refresh stale field,175,56.7,missing citation,75.4,refresh benchmark comparison
+UPD0007,UP004,Utility Data Exchange,populate new row,21,68.2,late client file,75.4,publish with caveat
+UPD0047,UP004,Utility Data Exchange,reconcile source conflict,13,63.8,conflicting sources,75.4,send source question to owner
+UPD0133,UP003,Program Tracker,refresh stale field,233,87.6,late client file,75.3,send source question to owner
+UPD0044,UP032,Measure Insights,populate new row,89,74.0,conflicting sources,73.8,send source question to owner
+UPD0086,UP032,Measure Insights,reconcile source conflict,72,84.2,none,73.8,hold for SME review
+UPD0083,UP032,Measure Insights,reconcile source conflict,65,79.1,SME review,73.8,send source question to owner
+UPD0128,UP034,Program Tracker,publish summary,191,91.3,SME review,71.5,publish with caveat
+UPD0031,UP034,Program Tracker,populate new row,117,63.4,none,71.5,send source question to owner
+UPD0082,UP034,Program Tracker,populate new row,12,90.1,missing citation,71.5,publish with caveat
+UPD0060,UP018,Utility Data Exchange,publish summary,74,81.6,SME review,70.2,update tool after citation check
+UPD0108,UP018,Utility Data Exchange,reconcile source conflict,42,76.6,late client file,70.2,publish with caveat
+UPD0090,UP036,Utility Data Exchange,document definition,237,94.2,SME review,69.6,update tool after citation check
+UPD0074,UP036,Utility Data Exchange,document definition,231,83.5,none,69.6,refresh benchmark comparison
+UPD0045,UP036,Utility Data Exchange,populate new row,217,82.6,conflicting sources,69.6,refresh benchmark comparison
+UPD0084,UP036,Utility Data Exchange,refresh stale field,192,77.7,missing citation,69.6,refresh benchmark comparison
+UPD0010,UP036,Utility Data Exchange,populate new row,118,83.1,none,69.6,update tool after citation check
+UPD0021,UP036,Utility Data Exchange,refresh stale field,109,74.9,late client file,69.6,hold for SME review
+UPD0037,UP020,Measure Insights,reconcile source conflict,151,79.1,late client file,69.1,publish with caveat
+UPD0113,UP020,Measure Insights,refresh stale field,27,85.8,none,69.1,publish with caveat
+UPD0039,UP015,Program Tracker,refresh stale field,259,77.5,none,69.0,refresh benchmark comparison
+UPD0135,UP029,Program Tracker,reconcile source conflict,7,75.8,conflicting sources,64.8,publish with caveat
+UPD0092,UP021,Measure Insights,publish summary,132,88.6,none,62.1,refresh benchmark comparison
+UPD0024,UP021,Measure Insights,document definition,64,95.3,late client file,62.1,publish with caveat
+UPD0132,UP035,DSM Benchmark,refresh stale field,40,85.9,SME review,62.1,hold for SME review
+UPD0094,UP021,Measure Insights,refresh stale field,26,94.9,none,62.1,publish with caveat
+UPD0012,UP035,DSM Benchmark,refresh stale field,8,95.5,none,62.1,hold for SME review
+UPD0124,UP025,DSM Benchmark,populate new row,163,72.8,none,60.3,update tool after citation check
+UPD0072,UP026,Program Tracker,document definition,232,89.4,none,57.6,update tool after citation check
+UPD0020,UP026,Program Tracker,reconcile source conflict,114,68.2,missing citation,57.6,update tool after citation check
+UPD0056,UP026,Program Tracker,reconcile source conflict,112,74.3,SME review,57.6,refresh benchmark comparison
+UPD0134,UP026,Program Tracker,refresh stale field,60,70.3,missing citation,57.6,update tool after citation check
+UPD0057,UP010,Research Library,refresh stale field,256,88.5,none,56.8,hold for SME review
+UPD0043,UP010,Research Library,populate new row,234,92.8,none,56.8,hold for SME review
+UPD0097,UP010,Research Library,document definition,205,78.4,none,56.8,send source question to owner
+UPD0088,UP010,Research Library,publish summary,190,87.8,missing citation,56.8,send source question to owner
+UPD0036,UP010,Research Library,refresh stale field,183,91.0,conflicting sources,56.8,send source question to owner
+UPD0099,UP010,Research Library,document definition,168,80.8,SME review,56.8,update tool after citation check
+UPD0119,UP010,Research Library,refresh stale field,162,91.1,none,56.8,update tool after citation check
+UPD0102,UP010,Research Library,refresh stale field,125,100,none,56.8,publish with caveat
+UPD0115,UP010,Research Library,document definition,110,87.1,none,56.8,hold for SME review
+UPD0062,UP008,Measure Insights,refresh stale field,121,79.6,conflicting sources,56.5,hold for SME review
+UPD0103,UP008,Measure Insights,reconcile source conflict,17,81.2,none,56.5,update tool after citation check
+UPD0003,UP002,Measure Insights,populate new row,186,73.2,late client file,55.8,update tool after citation check
+UPD0011,UP002,Measure Insights,publish summary,146,65.5,late client file,55.8,hold for SME review
+UPD0065,UP002,Measure Insights,document definition,42,69.3,none,55.8,update tool after citation check
+UPD0125,UP002,Measure Insights,refresh stale field,13,68.2,missing citation,55.8,publish with caveat
+UPD0123,UP028,DSM Benchmark,refresh stale field,88,91.5,none,48.3,hold for SME review
+UPD0008,UP028,DSM Benchmark,populate new row,70,89.8,SME review,48.3,send source question to owner
+UPD0029,UP028,DSM Benchmark,document definition,68,92.2,missing citation,48.3,send source question to owner
+UPD0032,UP028,DSM Benchmark,reconcile source conflict,42,86.6,none,48.3,update tool after citation check
+UPD0091,UP005,DSM Benchmark,publish summary,253,75.1,late client file,47.1,refresh benchmark comparison
+UPD0129,UP005,DSM Benchmark,refresh stale field,233,79.7,none,47.1,send source question to owner
+UPD0101,UP005,DSM Benchmark,refresh stale field,179,76.1,none,47.1,refresh benchmark comparison
+UPD0126,UP019,Utility Data Exchange,populate new row,246,88.5,missing citation,46.9,publish with caveat
+UPD0002,UP019,Utility Data Exchange,reconcile source conflict,233,100,missing citation,46.9,refresh benchmark comparison
+UPD0025,UP019,Utility Data Exchange,publish summary,186,78.8,none,46.9,publish with caveat
+UPD0042,UP019,Utility Data Exchange,reconcile source conflict,115,94.9,none,46.9,hold for SME review
+UPD0118,UP007,Measure Insights,document definition,251,91.3,SME review,46.1,publish with caveat
+UPD0068,UP007,Measure Insights,refresh stale field,209,89.5,none,46.1,publish with caveat
+UPD0136,UP007,Measure Insights,populate new row,85,90.2,conflicting sources,46.1,update tool after citation check
+UPD0016,UP012,Measure Insights,publish summary,233,97.7,SME review,40.9,publish with caveat
+UPD0122,UP041,Program Tracker,document definition,233,88.8,none,39.7,refresh benchmark comparison
+UPD0040,UP011,Measure Insights,reconcile source conflict,54,90.8,none,31.2,send source question to owner
+UPD0111,UP011,Measure Insights,refresh stale field,39,80.1,SME review,31.2,publish with caveat
+UPD0100,UP009,Program Tracker,publish summary,183,100,none,31.1,update tool after citation check
+UPD0069,UP009,Program Tracker,populate new row,79,92.7,conflicting sources,31.1,publish with caveat
+UPD0096,UP009,Program Tracker,document definition,37,100,none,31.1,refresh benchmark comparison
+UPD0120,UP042,Research Library,populate new row,222,100,missing citation,24.0,refresh benchmark comparison
+UPD0033,UP042,Research Library,refresh stale field,165,100,none,24.0,send source question to owner
+UPD0080,UP042,Research Library,document definition,129,100,none,24.0,send source question to owner
+UPD0027,UP042,Research Library,publish summary,127,97.2,conflicting sources,24.0,hold for SME review

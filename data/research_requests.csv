@@ -1,0 +1,97 @@
+request_id,program_id,request_type,due_date,audience,research_question,source_need,status
+REQ0001,UP003,webinar exhibit,2026-06-08,utility client,Which program records changed since the last published update?,program history and participation trend,new
+REQ0002,UP041,data pull,2026-06-18,subject matter expert,Which measures need source validation before the client call?,primary utility filing plus benchmark comparison,triaged
+REQ0003,UP018,report update,2026-06-21,subject matter expert,Where do savings values diverge from peer benchmarks?,program history and participation trend,new
+REQ0004,UP027,client question,2026-06-21,internal analyst,Where do savings values diverge from peer benchmarks?,program history and participation trend,ready
+REQ0005,UP019,client question,2026-05-23,internal analyst,Which program records changed since the last published update?,client spreadsheet reconciliation,triaged
+REQ0006,UP028,webinar exhibit,2026-05-23,executive reviewer,Where do savings values diverge from peer benchmarks?,survey notes with page references,ready
+REQ0007,UP004,data pull,2026-06-25,subject matter expert,Which measures need source validation before the client call?,client spreadsheet reconciliation,new
+REQ0008,UP029,article support,2026-06-04,internal analyst,What caveats should be included in the written summary?,survey notes with page references,triaged
+REQ0009,UP035,webinar exhibit,2026-06-16,executive reviewer,Which program records changed since the last published update?,program history and participation trend,triaged
+REQ0010,UP040,data pull,2026-05-26,subject matter expert,What caveats should be included in the written summary?,survey notes with page references,new
+REQ0011,UP007,article support,2026-05-28,subject matter expert,Which measures need source validation before the client call?,program history and participation trend,in progress
+REQ0012,UP019,data pull,2026-06-25,utility client,Where do savings values diverge from peer benchmarks?,client spreadsheet reconciliation,in progress
+REQ0013,UP016,webinar exhibit,2026-05-23,subject matter expert,Which program records changed since the last published update?,client spreadsheet reconciliation,new
+REQ0014,UP018,article support,2026-05-23,subject matter expert,What caveats should be included in the written summary?,primary utility filing plus benchmark comparison,new
+REQ0015,UP002,data pull,2026-06-05,subject matter expert,Where do savings values diverge from peer benchmarks?,survey notes with page references,new
+REQ0016,UP010,article support,2026-06-18,utility client,Where do savings values diverge from peer benchmarks?,client spreadsheet reconciliation,new
+REQ0017,UP006,data pull,2026-06-16,subject matter expert,What caveats should be included in the written summary?,survey notes with page references,triaged
+REQ0018,UP011,report update,2026-05-24,internal analyst,Which measures need source validation before the client call?,survey notes with page references,ready
+REQ0019,UP001,data pull,2026-05-24,subject matter expert,Where do savings values diverge from peer benchmarks?,program history and participation trend,triaged
+REQ0020,UP033,client question,2026-06-25,internal analyst,Which program records changed since the last published update?,survey notes with page references,in progress
+REQ0021,UP026,data pull,2026-06-06,utility client,Where do savings values diverge from peer benchmarks?,primary utility filing plus benchmark comparison,triaged
+REQ0022,UP036,webinar exhibit,2026-05-31,internal analyst,Which measures need source validation before the client call?,primary utility filing plus benchmark comparison,new
+REQ0023,UP023,article support,2026-06-18,internal analyst,Where do savings values diverge from peer benchmarks?,survey notes with page references,ready
+REQ0024,UP034,webinar exhibit,2026-06-10,utility client,Where do savings values diverge from peer benchmarks?,program history and participation trend,triaged
+REQ0025,UP012,article support,2026-05-29,executive reviewer,Where do savings values diverge from peer benchmarks?,program history and participation trend,triaged
+REQ0026,UP042,webinar exhibit,2026-06-09,subject matter expert,Which measures need source validation before the client call?,program history and participation trend,new
+REQ0027,UP004,client question,2026-06-18,subject matter expert,Which program records changed since the last published update?,primary utility filing plus benchmark comparison,ready
+REQ0028,UP002,data pull,2026-06-09,internal analyst,What caveats should be included in the written summary?,client spreadsheet reconciliation,new
+REQ0029,UP042,data pull,2026-06-24,internal analyst,Which program records changed since the last published update?,primary utility filing plus benchmark comparison,triaged
+REQ0030,UP021,webinar exhibit,2026-06-02,executive reviewer,Which program records changed since the last published update?,program history and participation trend,new
+REQ0031,UP041,article support,2026-06-23,subject matter expert,Which program records changed since the last published update?,client spreadsheet reconciliation,in progress
+REQ0032,UP032,client question,2026-06-22,subject matter expert,Where do savings values diverge from peer benchmarks?,client spreadsheet reconciliation,in progress
+REQ0033,UP025,report update,2026-05-30,utility client,What caveats should be included in the written summary?,client spreadsheet reconciliation,ready
+REQ0034,UP012,report update,2026-06-14,utility client,Where do savings values diverge from peer benchmarks?,primary utility filing plus benchmark comparison,triaged
+REQ0035,UP031,data pull,2026-05-25,utility client,What caveats should be included in the written summary?,client spreadsheet reconciliation,new
+REQ0036,UP036,data pull,2026-06-02,internal analyst,Where do savings values diverge from peer benchmarks?,primary utility filing plus benchmark comparison,in progress
+REQ0037,UP035,data pull,2026-06-25,executive reviewer,Which program records changed since the last published update?,client spreadsheet reconciliation,in progress
+REQ0038,UP011,data pull,2026-06-12,utility client,Which measures need source validation before the client call?,primary utility filing plus benchmark comparison,ready
+REQ0039,UP017,client question,2026-06-07,utility client,Which measures need source validation before the client call?,client spreadsheet reconciliation,in progress
+REQ0040,UP041,webinar exhibit,2026-06-16,subject matter expert,Where do savings values diverge from peer benchmarks?,survey notes with page references,ready
+REQ0041,UP041,webinar exhibit,2026-06-06,subject matter expert,Which program records changed since the last published update?,program history and participation trend,new
+REQ0042,UP001,webinar exhibit,2026-06-10,internal analyst,Which measures need source validation before the client call?,survey notes with page references,triaged
+REQ0043,UP004,client question,2026-06-18,executive reviewer,Which measures need source validation before the client call?,client spreadsheet reconciliation,ready
+REQ0044,UP019,client question,2026-06-15,internal analyst,What caveats should be included in the written summary?,primary utility filing plus benchmark comparison,triaged
+REQ0045,UP028,webinar exhibit,2026-06-04,executive reviewer,Which measures need source validation before the client call?,survey notes with page references,triaged
+REQ0046,UP042,client question,2026-05-30,subject matter expert,Which measures need source validation before the client call?,client spreadsheet reconciliation,new
+REQ0047,UP022,data pull,2026-05-31,subject matter expert,Where do savings values diverge from peer benchmarks?,survey notes with page references,new
+REQ0048,UP009,data pull,2026-05-30,utility client,Which measures need source validation before the client call?,survey notes with page references,ready
+REQ0049,UP042,data pull,2026-06-01,utility client,Which measures need source validation before the client call?,survey notes with page references,triaged
+REQ0050,UP003,data pull,2026-05-29,internal analyst,Which measures need source validation before the client call?,client spreadsheet reconciliation,in progress
+REQ0051,UP040,report update,2026-06-03,subject matter expert,What caveats should be included in the written summary?,program history and participation trend,in progress
+REQ0052,UP034,article support,2026-06-11,subject matter expert,Which program records changed since the last published update?,primary utility filing plus benchmark comparison,in progress
+REQ0053,UP035,webinar exhibit,2026-06-21,internal analyst,What caveats should be included in the written summary?,survey notes with page references,new
+REQ0054,UP027,client question,2026-06-13,executive reviewer,Which program records changed since the last published update?,program history and participation trend,triaged
+REQ0055,UP005,data pull,2026-06-12,utility client,What caveats should be included in the written summary?,primary utility filing plus benchmark comparison,in progress
+REQ0056,UP029,article support,2026-05-31,internal analyst,Where do savings values diverge from peer benchmarks?,survey notes with page references,in progress
+REQ0057,UP023,report update,2026-05-30,subject matter expert,Which measures need source validation before the client call?,survey notes with page references,in progress
+REQ0058,UP031,webinar exhibit,2026-06-10,subject matter expert,Which program records changed since the last published update?,primary utility filing plus benchmark comparison,in progress
+REQ0059,UP023,article support,2026-06-15,utility client,Which measures need source validation before the client call?,program history and participation trend,in progress
+REQ0060,UP003,data pull,2026-06-13,executive reviewer,Which program records changed since the last published update?,program history and participation trend,new
+REQ0061,UP017,client question,2026-06-16,internal analyst,Where do savings values diverge from peer benchmarks?,survey notes with page references,triaged
+REQ0062,UP011,article support,2026-06-15,subject matter expert,Which program records changed since the last published update?,client spreadsheet reconciliation,new
+REQ0063,UP011,report update,2026-05-24,executive reviewer,Which program records changed since the last published update?,program history and participation trend,new
+REQ0064,UP019,data pull,2026-05-25,utility client,Which measures need source validation before the client call?,survey notes with page references,triaged
+REQ0065,UP017,report update,2026-06-14,subject matter expert,What caveats should be included in the written summary?,primary utility filing plus benchmark comparison,ready
+REQ0066,UP007,webinar exhibit,2026-06-25,utility client,Which program records changed since the last published update?,client spreadsheet reconciliation,triaged
+REQ0067,UP021,article support,2026-05-23,internal analyst,What caveats should be included in the written summary?,program history and participation trend,new
+REQ0068,UP024,client question,2026-05-31,subject matter expert,Which program records changed since the last published update?,client spreadsheet reconciliation,triaged
+REQ0069,UP014,webinar exhibit,2026-05-27,executive reviewer,What caveats should be included in the written summary?,survey notes with page references,in progress
+REQ0070,UP034,client question,2026-06-12,utility client,What caveats should be included in the written summary?,primary utility filing plus benchmark comparison,ready
+REQ0071,UP010,article support,2026-06-16,subject matter expert,What caveats should be included in the written summary?,primary utility filing plus benchmark comparison,triaged
+REQ0072,UP001,client question,2026-06-10,subject matter expert,Which measures need source validation before the client call?,survey notes with page references,new
+REQ0073,UP021,report update,2026-05-26,subject matter expert,Which measures need source validation before the client call?,survey notes with page references,ready
+REQ0074,UP038,webinar exhibit,2026-05-26,utility client,What caveats should be included in the written summary?,client spreadsheet reconciliation,new
+REQ0075,UP023,webinar exhibit,2026-06-21,utility client,Where do savings values diverge from peer benchmarks?,survey notes with page references,ready
+REQ0076,UP013,webinar exhibit,2026-06-19,subject matter expert,Where do savings values diverge from peer benchmarks?,program history and participation trend,new
+REQ0077,UP008,data pull,2026-06-04,subject matter expert,What caveats should be included in the written summary?,survey notes with page references,ready
+REQ0078,UP038,data pull,2026-06-02,subject matter expert,Which measures need source validation before the client call?,primary utility filing plus benchmark comparison,in progress
+REQ0079,UP034,webinar exhibit,2026-06-11,executive reviewer,What caveats should be included in the written summary?,client spreadsheet reconciliation,in progress
+REQ0080,UP031,report update,2026-06-16,utility client,What caveats should be included in the written summary?,survey notes with page references,new
+REQ0081,UP027,article support,2026-06-22,executive reviewer,Which measures need source validation before the client call?,primary utility filing plus benchmark comparison,new
+REQ0082,UP021,webinar exhibit,2026-05-27,executive reviewer,Where do savings values diverge from peer benchmarks?,program history and participation trend,triaged
+REQ0083,UP015,data pull,2026-06-23,executive reviewer,Where do savings values diverge from peer benchmarks?,program history and participation trend,new
+REQ0084,UP009,report update,2026-05-24,executive reviewer,Where do savings values diverge from peer benchmarks?,program history and participation trend,triaged
+REQ0085,UP021,article support,2026-06-19,subject matter expert,What caveats should be included in the written summary?,primary utility filing plus benchmark comparison,triaged
+REQ0086,UP040,article support,2026-06-19,subject matter expert,What caveats should be included in the written summary?,primary utility filing plus benchmark comparison,triaged
+REQ0087,UP032,article support,2026-05-22,executive reviewer,What caveats should be included in the written summary?,program history and participation trend,triaged
+REQ0088,UP003,report update,2026-05-27,executive reviewer,Which measures need source validation before the client call?,primary utility filing plus benchmark comparison,in progress
+REQ0089,UP034,webinar exhibit,2026-06-13,internal analyst,What caveats should be included in the written summary?,survey notes with page references,triaged
+REQ0090,UP001,webinar exhibit,2026-06-15,utility client,Which program records changed since the last published update?,survey notes with page references,ready
+REQ0091,UP017,data pull,2026-06-20,utility client,Which measures need source validation before the client call?,primary utility filing plus benchmark comparison,new
+REQ0092,UP036,article support,2026-06-08,internal analyst,Which program records changed since the last published update?,primary utility filing plus benchmark comparison,triaged
+REQ0093,UP012,client question,2026-06-10,executive reviewer,Which program records changed since the last published update?,survey notes with page references,in progress
+REQ0094,UP007,report update,2026-06-15,internal analyst,Which measures need source validation before the client call?,program history and participation trend,new
+REQ0095,UP023,data pull,2026-05-24,utility client,Which program records changed since the last published update?,client spreadsheet reconciliation,in progress
+REQ0096,UP014,article support,2026-06-25,internal analyst,Which program records changed since the last published update?,primary utility filing plus benchmark comparison,new

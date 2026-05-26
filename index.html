@@ -4,51 +4,74 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Utility Energy Research Data Quality Kit</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@500;600;700;800;900&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="src/styles.css">
 </head>
-<body style="--accent:#0f766e;--bg:#eefdf8">
+<body>
   <main class="shell">
     <header class="hero">
-      <div>
-        <p class="eyebrow">Scorecard / utility energy research, data-tool maintenance, and energy-efficiency program analysis</p>
-        <h1>Utility Energy Research Data Quality Kit</h1>
+      <div class="hero-copy">
+        <p class="eyebrow">Utility research data operations</p>
+        <h1>Research data quality kit for energy program tools</h1>
+        <p class="dek">A reproducible workflow for keeping utility program records accurate, source-cited, and ready for analyst summaries, reports, articles, webinars, and client research requests.</p>
       </div>
-      <aside>
-        <b>Purpose</b>
-        <span>Turn messy utility program-level signals into a ranked operating artifact with recommendations a stakeholder can act on.</span>
+      <aside class="brief-card">
+        <span>Current focus</span>
+        <strong id="currentFocus">Loading queue</strong>
+        <p id="focusCopy">Preparing the latest data-tool update and QA summary.</p>
+        <div class="focus-stack" aria-label="Focus checks">
+          <div><b>QA</b><small>source check first</small></div>
+          <div><b>Tool</b><small>pending rows grouped</small></div>
+          <div><b>Brief</b><small>caveat ready</small></div>
+        </div>
       </aside>
     </header>
-    <section class="metrics">
-      <article><span>Modeled rows</span><strong>6.0K+</strong><em>source-style</em></article>
-      <article><span>Ranked queue</span><strong>25</strong><em>utility programs</em></article>
-      <article><span>Action pool</span><strong>220</strong><em>candidates</em></article>
-      <article><span>Review time</span><strong>-6 hrs</strong><em>weekly</em></article>
-    </section>
-    <section class="main-grid">
-      <article class="panel lead">
-        <p class="eyebrow">Metric ownership</p>
-        <h2>Priority queue</h2>
-        <table>
-          <thead><tr><th>utility program</th><th>Signal</th><th>Risk</th><th>Next move</th></tr></thead>
-          <tbody>
-            <tr><td>Segment A</td><td>KPI drift</td><td>High</td><td>Escalate with source check</td></tr>
-            <tr><td>Segment B</td><td>Roadmap opportunity</td><td>Medium</td><td>Test with clear owner</td></tr>
-            <tr><td>Segment C</td><td>Quality gap</td><td>Watch</td><td>Document metric definition</td></tr>
-          </tbody>
-        </table>
+
+    <section class="stats" aria-label="Portfolio metrics">
+      <article>
+        <span>Programs</span>
+        <strong id="statPrograms">0</strong>
+        <em>tracked records</em>
       </article>
-      <article class="panel narrative">
-        <p class="eyebrow">What the analysis says</p>
-        <h2>Recommendations over screenshots</h2>
-        <p>The artifact is built around decisions, not dashboard decoration: each source table feeds a ranked queue, and each queue item resolves into a recommendation.</p>
-        <p>The strongest opportunities appear where performance upside, measurement quality, and operating readiness overlap.</p>
+      <article>
+        <span>Source rows</span>
+        <strong id="statSources">0</strong>
+        <em>primary and secondary</em>
+      </article>
+      <article>
+        <span>Open checks</span>
+        <strong id="statChecks">0</strong>
+        <em>QA queue</em>
+      </article>
+      <article>
+        <span>Pending tool rows</span>
+        <strong id="statUpdates">0</strong>
+        <em>updates to reconcile</em>
       </article>
     </section>
-    <section class="recommendations">
-      <article><b>01</b><h3>Validate</h3><p>Confirm source definitions before scaling the insight into recurring reporting.</p></article>
-      <article><b>02</b><h3>Prioritize</h3><p>Move the highest-value utility program segment into the next operating review.</p></article>
-      <article><b>03</b><h3>Automate</h3><p>Convert the queue into a stakeholder-ready digest for repeated decisions.</p></article>
+
+    <section class="workspace" aria-label="Research operations workspace">
+      <nav class="tabs" aria-label="Workspace views">
+        <button class="tab active" type="button" data-view="quality">QA queue</button>
+        <button class="tab" type="button" data-view="updates">Tool updates</button>
+        <button class="tab" type="button" data-view="requests">Research triage</button>
+        <button class="tab" type="button" data-view="briefs">Brief pack</button>
+      </nav>
+
+      <div class="surface">
+        <div class="surface-header">
+          <div>
+            <p class="eyebrow" id="surfaceEyebrow">Quality control</p>
+            <h2 id="surfaceTitle">Program QA priority queue</h2>
+          </div>
+          <p id="surfaceNote">Ranked by open checks, stale verification dates, source confidence, citation gaps, and pending data-tool updates.</p>
+        </div>
+        <div id="surfaceBody" class="surface-body"></div>
+      </div>
     </section>
   </main>
+  <script src="src/app.js"></script>
 </body>
 </html>

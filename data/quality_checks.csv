@@ -1,0 +1,181 @@
+check_id,program_id,opened_date,check_type,severity,affected_records,status,owner,procedure_step
+QC0001,UP003,2026-04-04,definition mismatch,Medium,143,resolved,Program research,duplicate detection
+QC0002,UP040,2026-05-09,outlier versus benchmark,Medium,323,resolved,Analyst team,stakeholder signoff
+QC0003,UP039,2026-05-14,unit conversion,Critical,273,open,Data operations,duplicate detection
+QC0004,UP010,2026-05-09,stale value,Medium,105,open,Data operations,unit normalization
+QC0005,UP024,2026-05-16,duplicate program row,Low,181,open,Subject matter expert,source citation review
+QC0006,UP040,2026-04-03,outlier versus benchmark,High,48,resolved,Data operations,metric definition check
+QC0007,UP014,2026-05-25,outlier versus benchmark,Medium,118,open,Program research,stakeholder signoff
+QC0008,UP025,2026-04-03,stale value,Low,217,open,Data operations,metric definition check
+QC0009,UP028,2026-04-21,missing source citation,Medium,416,in review,Subject matter expert,source citation review
+QC0010,UP022,2026-05-12,missing source citation,Critical,361,resolved,Analyst team,unit normalization
+QC0011,UP039,2026-04-29,duplicate program row,Low,387,resolved,Data operations,stakeholder signoff
+QC0012,UP003,2026-04-14,stale value,High,354,open,Subject matter expert,source citation review
+QC0013,UP014,2026-04-08,duplicate program row,High,340,in review,Subject matter expert,source citation review
+QC0014,UP032,2026-05-20,stale value,High,304,in review,Subject matter expert,stakeholder signoff
+QC0015,UP029,2026-05-24,definition mismatch,Critical,330,resolved,Subject matter expert,source citation review
+QC0016,UP013,2026-04-02,stale value,Critical,313,open,Analyst team,metric definition check
+QC0017,UP024,2026-04-06,definition mismatch,Low,288,resolved,Data operations,source citation review
+QC0018,UP041,2026-03-29,duplicate program row,High,152,open,Data operations,unit normalization
+QC0019,UP010,2026-05-17,missing source citation,Medium,31,open,Analyst team,metric definition check
+QC0020,UP035,2026-04-03,definition mismatch,Low,397,resolved,Subject matter expert,unit normalization
+QC0021,UP034,2026-03-31,outlier versus benchmark,High,413,in review,Analyst team,metric definition check
+QC0022,UP034,2026-05-22,unit conversion,Medium,181,open,Subject matter expert,stakeholder signoff
+QC0023,UP013,2026-05-20,missing source citation,Critical,255,open,Data operations,stakeholder signoff
+QC0024,UP024,2026-04-30,duplicate program row,Critical,387,open,Data operations,unit normalization
+QC0025,UP005,2026-04-03,stale value,High,41,resolved,Data operations,stakeholder signoff
+QC0026,UP033,2026-05-10,outlier versus benchmark,Medium,198,open,Analyst team,metric definition check
+QC0027,UP025,2026-05-20,definition mismatch,Medium,428,open,Data operations,unit normalization
+QC0028,UP038,2026-05-14,stale value,Critical,317,resolved,Program research,unit normalization
+QC0029,UP018,2026-05-16,stale value,Medium,255,open,Data operations,unit normalization
+QC0030,UP019,2026-03-30,outlier versus benchmark,Medium,286,open,Analyst team,stakeholder signoff
+QC0031,UP009,2026-04-23,unit conversion,Low,198,in review,Data operations,duplicate detection
+QC0032,UP006,2026-04-25,outlier versus benchmark,Low,412,in review,Program research,source citation review
+QC0033,UP017,2026-04-12,missing source citation,Low,123,open,Data operations,unit normalization
+QC0034,UP030,2026-03-31,unit conversion,High,182,in review,Subject matter expert,source citation review
+QC0035,UP004,2026-04-03,duplicate program row,High,323,resolved,Data operations,stakeholder signoff
+QC0036,UP030,2026-05-09,missing source citation,High,136,open,Program research,unit normalization
+QC0037,UP031,2026-04-18,definition mismatch,Medium,59,in review,Data operations,unit normalization
+QC0038,UP037,2026-05-11,definition mismatch,Medium,189,in review,Analyst team,unit normalization
+QC0039,UP033,2026-05-12,definition mismatch,Low,455,in review,Analyst team,metric definition check
+QC0040,UP027,2026-05-25,stale value,Medium,95,open,Analyst team,stakeholder signoff
+QC0041,UP024,2026-04-23,unit conversion,Medium,453,resolved,Subject matter expert,duplicate detection
+QC0042,UP006,2026-05-09,definition mismatch,Medium,277,in review,Data operations,stakeholder signoff
+QC0043,UP014,2026-04-23,unit conversion,High,395,open,Analyst team,metric definition check
+QC0044,UP022,2026-04-12,outlier versus benchmark,Critical,61,open,Subject matter expert,source citation review
+QC0045,UP042,2026-05-09,stale value,Medium,117,open,Subject matter expert,duplicate detection
+QC0046,UP006,2026-03-29,definition mismatch,Medium,194,open,Data operations,source citation review
+QC0047,UP008,2026-04-02,outlier versus benchmark,Low,308,open,Program research,duplicate detection
+QC0048,UP041,2026-05-15,stale value,Medium,366,resolved,Analyst team,unit normalization
+QC0049,UP016,2026-04-11,stale value,Critical,373,in review,Subject matter expert,unit normalization
+QC0050,UP004,2026-05-05,outlier versus benchmark,Medium,141,in review,Program research,metric definition check
+QC0051,UP019,2026-04-05,duplicate program row,Medium,330,open,Analyst team,duplicate detection
+QC0052,UP023,2026-05-17,definition mismatch,Medium,289,in review,Subject matter expert,metric definition check
+QC0053,UP004,2026-04-05,missing source citation,Medium,388,resolved,Program research,duplicate detection
+QC0054,UP028,2026-04-02,definition mismatch,Medium,87,in review,Program research,metric definition check
+QC0055,UP009,2026-03-30,definition mismatch,Medium,124,in review,Analyst team,metric definition check
+QC0056,UP041,2026-05-21,unit conversion,Low,58,open,Program research,metric definition check
+QC0057,UP040,2026-05-23,missing source citation,High,146,in review,Program research,duplicate detection
+QC0058,UP001,2026-05-03,stale value,High,98,resolved,Data operations,stakeholder signoff
+QC0059,UP018,2026-04-05,definition mismatch,Medium,428,open,Analyst team,metric definition check
+QC0060,UP017,2026-05-12,definition mismatch,Critical,67,open,Data operations,metric definition check
+QC0061,UP003,2026-05-14,missing source citation,High,164,open,Data operations,metric definition check
+QC0062,UP033,2026-04-19,outlier versus benchmark,Medium,400,open,Data operations,source citation review
+QC0063,UP001,2026-04-09,unit conversion,Medium,452,open,Analyst team,source citation review
+QC0064,UP008,2026-04-04,outlier versus benchmark,Medium,439,open,Program research,duplicate detection
+QC0065,UP038,2026-05-12,missing source citation,Medium,369,in review,Data operations,source citation review
+QC0066,UP033,2026-05-04,stale value,Medium,327,open,Analyst team,unit normalization
+QC0067,UP013,2026-04-22,missing source citation,High,218,open,Analyst team,metric definition check
+QC0068,UP040,2026-05-03,duplicate program row,High,148,open,Data operations,duplicate detection
+QC0069,UP015,2026-05-12,outlier versus benchmark,Medium,256,in review,Data operations,stakeholder signoff
+QC0070,UP039,2026-05-24,stale value,High,410,open,Data operations,stakeholder signoff
+QC0071,UP016,2026-03-30,unit conversion,Medium,348,open,Analyst team,stakeholder signoff
+QC0072,UP024,2026-03-29,unit conversion,High,239,open,Analyst team,stakeholder signoff
+QC0073,UP020,2026-04-06,stale value,High,176,open,Analyst team,metric definition check
+QC0074,UP018,2026-05-06,unit conversion,Medium,133,resolved,Analyst team,metric definition check
+QC0075,UP013,2026-05-15,outlier versus benchmark,High,434,in review,Analyst team,duplicate detection
+QC0076,UP020,2026-05-06,duplicate program row,High,293,open,Subject matter expert,unit normalization
+QC0077,UP018,2026-05-12,definition mismatch,Medium,19,resolved,Data operations,stakeholder signoff
+QC0078,UP024,2026-05-10,stale value,Critical,447,open,Analyst team,stakeholder signoff
+QC0079,UP018,2026-04-29,stale value,Low,269,in review,Program research,unit normalization
+QC0080,UP023,2026-05-23,definition mismatch,Medium,177,in review,Data operations,source citation review
+QC0081,UP032,2026-04-17,unit conversion,Medium,79,in review,Analyst team,unit normalization
+QC0082,UP008,2026-05-05,unit conversion,High,446,in review,Data operations,metric definition check
+QC0083,UP039,2026-05-02,stale value,Medium,252,in review,Data operations,metric definition check
+QC0084,UP018,2026-04-20,unit conversion,Medium,62,resolved,Analyst team,metric definition check
+QC0085,UP012,2026-05-02,definition mismatch,Medium,127,resolved,Analyst team,duplicate detection
+QC0086,UP017,2026-05-02,stale value,High,29,in review,Subject matter expert,unit normalization
+QC0087,UP006,2026-05-16,unit conversion,Critical,175,in review,Analyst team,source citation review
+QC0088,UP016,2026-05-11,stale value,Critical,86,open,Data operations,duplicate detection
+QC0089,UP041,2026-04-30,duplicate program row,Medium,334,resolved,Analyst team,unit normalization
+QC0090,UP013,2026-05-14,missing source citation,Critical,221,in review,Analyst team,metric definition check
+QC0091,UP023,2026-03-31,missing source citation,Critical,114,in review,Data operations,stakeholder signoff
+QC0092,UP037,2026-04-26,stale value,High,35,in review,Analyst team,source citation review
+QC0093,UP034,2026-04-08,outlier versus benchmark,Critical,178,open,Data operations,source citation review
+QC0094,UP021,2026-05-12,missing source citation,High,293,open,Subject matter expert,source citation review
+QC0095,UP031,2026-04-26,missing source citation,Medium,377,resolved,Subject matter expert,metric definition check
+QC0096,UP026,2026-04-20,missing source citation,High,64,open,Subject matter expert,metric definition check
+QC0097,UP035,2026-05-09,unit conversion,Low,73,open,Subject matter expert,metric definition check
+QC0098,UP029,2026-04-27,outlier versus benchmark,High,366,open,Analyst team,source citation review
+QC0099,UP021,2026-05-07,stale value,High,344,open,Analyst team,duplicate detection
+QC0100,UP028,2026-05-04,missing source citation,Medium,104,open,Subject matter expert,unit normalization
+QC0101,UP011,2026-05-23,definition mismatch,Medium,317,open,Data operations,metric definition check
+QC0102,UP041,2026-04-22,stale value,Medium,254,open,Program research,unit normalization
+QC0103,UP033,2026-05-05,stale value,Medium,396,resolved,Program research,unit normalization
+QC0104,UP009,2026-04-25,missing source citation,Medium,192,resolved,Analyst team,unit normalization
+QC0105,UP002,2026-05-16,outlier versus benchmark,Critical,460,resolved,Subject matter expert,unit normalization
+QC0106,UP015,2026-04-19,duplicate program row,High,379,open,Data operations,unit normalization
+QC0107,UP041,2026-05-06,duplicate program row,Medium,254,resolved,Analyst team,metric definition check
+QC0108,UP014,2026-04-14,definition mismatch,High,409,in review,Data operations,source citation review
+QC0109,UP027,2026-04-27,stale value,Low,146,open,Analyst team,unit normalization
+QC0110,UP029,2026-05-19,duplicate program row,High,413,open,Analyst team,metric definition check
+QC0111,UP026,2026-04-14,outlier versus benchmark,Medium,329,resolved,Data operations,source citation review
+QC0112,UP042,2026-05-04,stale value,Medium,209,resolved,Program research,stakeholder signoff
+QC0113,UP011,2026-05-25,outlier versus benchmark,High,117,resolved,Program research,source citation review
+QC0114,UP024,2026-04-09,outlier versus benchmark,Medium,306,resolved,Analyst team,duplicate detection
+QC0115,UP041,2026-04-21,definition mismatch,Medium,154,resolved,Analyst team,stakeholder signoff
+QC0116,UP001,2026-05-08,missing source citation,Medium,441,in review,Subject matter expert,duplicate detection
+QC0117,UP010,2026-04-12,duplicate program row,Medium,253,resolved,Subject matter expert,stakeholder signoff
+QC0118,UP022,2026-04-09,duplicate program row,High,59,resolved,Data operations,duplicate detection
+QC0119,UP037,2026-03-31,outlier versus benchmark,Medium,32,open,Subject matter expert,source citation review
+QC0120,UP003,2026-04-23,missing source citation,Medium,231,resolved,Subject matter expert,unit normalization
+QC0121,UP039,2026-04-12,outlier versus benchmark,Medium,308,open,Analyst team,source citation review
+QC0122,UP022,2026-05-18,missing source citation,Medium,141,open,Analyst team,unit normalization
+QC0123,UP015,2026-05-20,definition mismatch,Critical,419,open,Analyst team,stakeholder signoff
+QC0124,UP038,2026-04-01,missing source citation,Critical,341,open,Analyst team,stakeholder signoff
+QC0125,UP022,2026-04-23,definition mismatch,Medium,139,open,Data operations,source citation review
+QC0126,UP040,2026-05-06,definition mismatch,High,263,open,Subject matter expert,source citation review
+QC0127,UP002,2026-05-20,unit conversion,Medium,308,open,Data operations,duplicate detection
+QC0128,UP009,2026-03-29,outlier versus benchmark,Medium,452,open,Program research,stakeholder signoff
+QC0129,UP013,2026-03-29,outlier versus benchmark,High,115,resolved,Analyst team,unit normalization
+QC0130,UP040,2026-05-11,stale value,Critical,3,open,Data operations,source citation review
+QC0131,UP021,2026-05-15,missing source citation,Low,29,open,Program research,source citation review
+QC0132,UP025,2026-05-04,stale value,Medium,127,resolved,Data operations,metric definition check
+QC0133,UP014,2026-04-12,definition mismatch,Medium,253,resolved,Subject matter expert,stakeholder signoff
+QC0134,UP018,2026-05-19,unit conversion,Low,128,resolved,Data operations,metric definition check
+QC0135,UP028,2026-04-09,duplicate program row,Low,181,open,Data operations,source citation review
+QC0136,UP036,2026-04-10,stale value,Medium,134,open,Analyst team,unit normalization
+QC0137,UP032,2026-05-14,stale value,High,61,resolved,Data operations,unit normalization
+QC0138,UP012,2026-04-20,stale value,High,296,open,Program research,source citation review
+QC0139,UP026,2026-04-02,stale value,Medium,347,resolved,Data operations,unit normalization
+QC0140,UP020,2026-05-17,outlier versus benchmark,High,197,resolved,Subject matter expert,metric definition check
+QC0141,UP016,2026-05-21,missing source citation,Medium,450,open,Analyst team,unit normalization
+QC0142,UP027,2026-04-09,duplicate program row,Critical,87,in review,Data operations,unit normalization
+QC0143,UP017,2026-05-18,duplicate program row,Low,372,in review,Analyst team,source citation review
+QC0144,UP014,2026-05-08,stale value,High,29,in review,Analyst team,stakeholder signoff
+QC0145,UP007,2026-04-30,stale value,High,360,open,Analyst team,duplicate detection
+QC0146,UP001,2026-04-01,missing source citation,High,317,open,Program research,metric definition check
+QC0147,UP008,2026-05-02,missing source citation,Critical,120,resolved,Analyst team,duplicate detection
+QC0148,UP022,2026-04-01,duplicate program row,Low,194,open,Subject matter expert,source citation review
+QC0149,UP017,2026-05-26,outlier versus benchmark,Low,169,resolved,Data operations,source citation review
+QC0150,UP037,2026-03-31,outlier versus benchmark,Critical,88,open,Subject matter expert,stakeholder signoff
+QC0151,UP005,2026-04-07,outlier versus benchmark,Low,241,open,Program research,metric definition check
+QC0152,UP040,2026-04-25,definition mismatch,Low,329,in review,Data operations,duplicate detection
+QC0153,UP037,2026-05-22,definition mismatch,Critical,166,resolved,Subject matter expert,metric definition check
+QC0154,UP035,2026-04-23,outlier versus benchmark,Critical,342,in review,Program research,unit normalization
+QC0155,UP022,2026-04-25,missing source citation,High,334,open,Subject matter expert,duplicate detection
+QC0156,UP025,2026-04-07,duplicate program row,Medium,422,open,Analyst team,stakeholder signoff
+QC0157,UP038,2026-04-12,duplicate program row,Critical,346,open,Subject matter expert,unit normalization
+QC0158,UP042,2026-05-02,unit conversion,Critical,293,resolved,Program research,duplicate detection
+QC0159,UP016,2026-05-15,stale value,Medium,453,in review,Subject matter expert,unit normalization
+QC0160,UP010,2026-04-07,unit conversion,Low,426,open,Subject matter expert,unit normalization
+QC0161,UP004,2026-05-23,unit conversion,Medium,137,open,Program research,duplicate detection
+QC0162,UP018,2026-05-07,duplicate program row,Medium,343,open,Analyst team,stakeholder signoff
+QC0163,UP014,2026-05-02,stale value,High,104,in review,Subject matter expert,source citation review
+QC0164,UP011,2026-04-03,definition mismatch,Low,263,in review,Analyst team,source citation review
+QC0165,UP036,2026-04-30,stale value,Medium,120,resolved,Analyst team,duplicate detection
+QC0166,UP020,2026-05-24,unit conversion,High,390,open,Subject matter expert,source citation review
+QC0167,UP023,2026-03-30,stale value,High,53,resolved,Program research,source citation review
+QC0168,UP001,2026-05-09,missing source citation,High,287,open,Program research,metric definition check
+QC0169,UP038,2026-05-21,outlier versus benchmark,Low,355,resolved,Program research,metric definition check
+QC0170,UP003,2026-05-07,unit conversion,Medium,163,in review,Subject matter expert,source citation review
+QC0171,UP004,2026-05-17,duplicate program row,High,427,open,Data operations,stakeholder signoff
+QC0172,UP036,2026-05-05,unit conversion,Medium,99,in review,Analyst team,source citation review
+QC0173,UP013,2026-05-09,outlier versus benchmark,High,440,resolved,Subject matter expert,stakeholder signoff
+QC0174,UP006,2026-05-21,missing source citation,High,297,open,Program research,unit normalization
+QC0175,UP017,2026-04-05,outlier versus benchmark,High,322,open,Analyst team,metric definition check
+QC0176,UP035,2026-05-09,unit conversion,High,260,open,Program research,metric definition check
+QC0177,UP014,2026-05-13,unit conversion,Medium,185,in review,Subject matter expert,unit normalization
+QC0178,UP014,2026-05-11,stale value,High,249,resolved,Program research,duplicate detection
+QC0179,UP027,2026-05-09,definition mismatch,Medium,81,open,Data operations,duplicate detection
+QC0180,UP005,2026-05-18,duplicate program row,High,151,open,Program research,unit normalization

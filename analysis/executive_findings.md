@@ -1,15 +1,16 @@
 # Executive Findings
 
-## What I analyzed
+## What I Analyzed
 
-I joined 5,040 daily metric rows, 760 source events, and 220 action candidates for utility energy research, data-tool maintenance, and energy-efficiency program analysis.
+I generated and analyzed 42 utility program records, 720 source observations, 180 quality checks, 96 research requests, and 136 data-tool update tasks.
 
 ## Findings
 
-- The highest-priority utility program is UTI003 with a priority score of 102.28.
-- The top queue combines 50.6 average risk with 80.8 quality score and $907,249 estimated impact.
-- The strongest use case is turning repeated stakeholder questions into a ranked operating digest.
+- The top QA priority is `UP013`, a heat pump adoption program with a 125.4 priority score, 5 open checks, 661 pending update rows, and 3 citation gaps.
+- The workflow found 131 open quality checks and 18,317 pending data-tool rows across the synthetic research dataset.
+- The source evidence layer has an average confidence score of 80.5, with 167 rows that need citation cleanup or page-reference review.
+- The highest-priority research requests are not simply the oldest requests. They combine deadline pressure with quality risk and source-documentation needs.
 
 ## Recommendation
 
-Prioritize the top queue before scaling more dashboards. The project should help leaders decide which utility program risks need action, validation, or monitoring.
+Use the program quality queue as the first daily review surface. Resolve high-severity QA issues and source citation gaps before publishing program summaries, then use the request triage queue to decide which client or analyst questions need a caveat, an owner follow-up, or a ready-to-send evidence pack.
